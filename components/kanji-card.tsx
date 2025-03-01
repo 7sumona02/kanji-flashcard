@@ -4,6 +4,7 @@ import type React from "react"
 
 import { useState, useRef, useEffect } from "react"
 import { motion } from "framer-motion"
+import { Mic } from "lucide-react"
 
 interface KanjiCardProps {
   kanjiData: {
@@ -12,6 +13,7 @@ interface KanjiCardProps {
     meaning: string
     kunyomi: string
     onyomi: string
+    pronunciation: string
   }
   isFlipped: boolean
   onSwipeLeft: () => void
@@ -25,6 +27,12 @@ export default function KanjiCard({ kanjiData, isFlipped, onSwipeLeft, onSwipeRi
   const [isDragging, setIsDragging] = useState(false)
   const [wasDragged, setWasDragged] = useState(false)
   const cardRef = useRef<HTMLDivElement>(null)
+
+  const speak = (text: string) => {
+    const utterance = new SpeechSynthesisUtterance(text)
+    utterance.lang = "ja-JP" // Set the language to Japanese
+    window.speechSynthesis.speak(utterance)
+  }
 
   const handleDragStart = (e: React.MouseEvent | React.TouchEvent) => {
     setIsDragging(true)
@@ -152,6 +160,15 @@ export default function KanjiCard({ kanjiData, isFlipped, onSwipeLeft, onSwipeRi
               <span className="font-semibold">Onyomi:</span> {kanjiData.onyomi}
             </div>
           </div>
+          <button
+        className="mt-4 text-sm text-blue-500 hover:text-blue-700"
+        onClick={(e) => {
+          e.stopPropagation()
+          speak(kanjiData.pronunciation)
+        }}
+      >
+        <Mic />
+      </button>
         </div>
       </motion.div>
     </div>
