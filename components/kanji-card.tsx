@@ -119,10 +119,10 @@ export default function KanjiCard({ kanjiData, isFlipped, onSwipeLeft, onSwipeRi
           rotateY: isFlipped ? 180 : 0,
         }}
         transition={{
-          type: "spring",
-          stiffness: 300,
-          damping: 20,
-          duration: 0.1,
+          x: { type: "spring", stiffness: 300, damping: 20 },
+          y: { type: "spring", stiffness: 300, damping: 20 },
+          rotate: { type: "spring", stiffness: 300, damping: 20 },
+          rotateY: { type: "tween", duration: 0.3, ease: "easeInOut" },
         }}
         onMouseDown={handleDragStart}
         onMouseMove={handleDragMove}

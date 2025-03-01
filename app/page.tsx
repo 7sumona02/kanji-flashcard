@@ -60,7 +60,7 @@ export default function Home() {
   const isComplete = progress === 100 && reviewStack.length === 0
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-4 md:p-24 bg-gray-50">
+    <main className="select-none flex min-h-screen flex-col items-center justify-between p-4 md:p-24 bg-gray-50">
       <div className="w-full max-w-md mx-auto flex flex-col items-center">
         <h1 className="text-3xl font-bold mb-8 text-center">漢字 Flashcards</h1>
 
