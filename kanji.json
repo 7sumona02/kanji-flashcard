@@ -1,104 +1,826 @@
 [
-    { "id": 1, "kanji": "日", "meaning": "日、太陽", "kunyomi": "ひ", "onyomi": "ニチ、ジツ" },
-    { "id": 2, "kanji": "月", "meaning": "月、月", "kunyomi": "つき", "onyomi": "ゲツ、ガツ" },
-    { "id": 3, "kanji": "火", "meaning": "火", "kunyomi": "ひ", "onyomi": "カ" },
-    { "id": 4, "kanji": "水", "meaning": "水", "kunyomi": "みず", "onyomi": "スイ" },
-    { "id": 5, "kanji": "木", "meaning": "木", "kunyomi": "き", "onyomi": "モク、ボク" },
-    { "id": 6, "kanji": "金", "meaning": "金、金属、お金", "kunyomi": "かね", "onyomi": "キン、コン" },
-    { "id": 7, "kanji": "土", "meaning": "土、土地", "kunyomi": "つち", "onyomi": "ド、ト" },
-    { "id": 8, "kanji": "一", "meaning": "一", "kunyomi": "ひと(つ)", "onyomi": "イチ、イツ" },
-    { "id": 9, "kanji": "二", "meaning": "二", "kunyomi": "ふた(つ)", "onyomi": "ニ" },
-    { "id": 10, "kanji": "三", "meaning": "三", "kunyomi": "み(っつ)", "onyomi": "サン" },
-    { "id": 11, "kanji": "四", "meaning": "四", "kunyomi": "よ(っつ)、よん", "onyomi": "シ" },
-    { "id": 12, "kanji": "五", "meaning": "五", "kunyomi": "いつ(つ)", "onyomi": "ゴ" },
-    { "id": 13, "kanji": "六", "meaning": "六", "kunyomi": "む(っつ)", "onyomi": "ロク" },
-    { "id": 14, "kanji": "七", "meaning": "七", "kunyomi": "なな(つ)", "onyomi": "シチ" },
-    { "id": 15, "kanji": "八", "meaning": "八", "kunyomi": "や(っつ)", "onyomi": "ハチ" },
-    { "id": 16, "kanji": "九", "meaning": "九", "kunyomi": "ここの(つ)", "onyomi": "キュウ、ク" },
-    { "id": 17, "kanji": "十", "meaning": "十", "kunyomi": "とお", "onyomi": "ジュウ、ジッ" },
-    { "id": 18, "kanji": "百", "meaning": "百", "kunyomi": "もも", "onyomi": "ヒャク" },
-    { "id": 19, "kanji": "千", "meaning": "千", "kunyomi": "ち", "onyomi": "セン" },
-    { "id": 20, "kanji": "万", "meaning": "万", "kunyomi": "よろず", "onyomi": "マン、バン" },
-    { "id": 21, "kanji": "円", "meaning": "円、丸い", "kunyomi": "まる(い)", "onyomi": "エン" },
-    { "id": 22, "kanji": "年", "meaning": "年、年齢", "kunyomi": "とし", "onyomi": "ネン" },
-    { "id": 23, "kanji": "上", "meaning": "上、上", "kunyomi": "うえ、あ(がる)", "onyomi": "ジョウ" },
-    { "id": 24, "kanji": "下", "meaning": "下、下", "kunyomi": "した、さ(がる)", "onyomi": "カ、ゲ" },
-    { "id": 25, "kanji": "左", "meaning": "左", "kunyomi": "ひだり", "onyomi": "サ" },
-    { "id": 26, "kanji": "右", "meaning": "右", "kunyomi": "みぎ", "onyomi": "ウ、ユウ" },
-    { "id": 27, "kanji": "中", "meaning": "中、真ん中", "kunyomi": "なか", "onyomi": "チュウ" },
-    { "id": 28, "kanji": "大", "meaning": "大、大きい", "kunyomi": "おお(きい)", "onyomi": "ダイ、タイ" },
-    { "id": 29, "kanji": "小", "meaning": "小、小さい", "kunyomi": "ちい(さい)", "onyomi": "ショウ" },
-    { "id": 30, "kanji": "山", "meaning": "山", "kunyomi": "やま", "onyomi": "サン" },
-    { "id": 31, "kanji": "川", "meaning": "川", "kunyomi": "かわ", "onyomi": "セン" },
-    { "id": 32, "kanji": "人", "meaning": "人", "kunyomi": "ひと", "onyomi": "ジン、ニン" },
-    { "id": 33, "kanji": "名", "meaning": "名前、有名", "kunyomi": "な", "onyomi": "メイ、ミョウ" },
-    { "id": 34, "kanji": "女", "meaning": "女、女性", "kunyomi": "おんな", "onyomi": "ジョ、ニョ" },
-    { "id": 35, "kanji": "男", "meaning": "男、男性", "kunyomi": "おとこ", "onyomi": "ダン、ナン" },
-    { "id": 36, "kanji": "学", "meaning": "学ぶ、学習", "kunyomi": "まな(ぶ)", "onyomi": "ガク" },
-    { "id": 37, "kanji": "生", "meaning": "生きる、生まれる", "kunyomi": "い(きる)、う(まれる)", "onyomi": "セイ、ショウ" },
-    { "id": 38, "kanji": "先", "meaning": "先、以前", "kunyomi": "さき", "onyomi": "セン" },
-    { "id": 39, "kanji": "私", "meaning": "私", "kunyomi": "わたし", "onyomi": "シ" },
-    { "id": 40, "kanji": "今", "meaning": "今", "kunyomi": "いま", "onyomi": "コン、キン" },
-    { "id": 41, "kanji": "見", "meaning": "見る", "kunyomi": "み(る)", "onyomi": "ケン" },
-    { "id": 42, "kanji": "行", "meaning": "行く、行う", "kunyomi": "い(く)、おこな(う)", "onyomi": "コウ、ギョウ" },
-    { "id": 43, "kanji": "食", "meaning": "食べる、食物", "kunyomi": "た(べる)", "onyomi": "ショク" },
-    { "id": 44, "kanji": "飲", "meaning": "飲む", "kunyomi": "の(む)", "onyomi": "イン" },
-    { "id": 45, "kanji": "会", "meaning": "会う、集まる", "kunyomi": "あ(う)", "onyomi": "カイ、エ" },
-    { "id": 46, "kanji": "耳", "meaning": "耳", "kunyomi": "みみ", "onyomi": "ジ" },
-    { "id": 47, "kanji": "口", "meaning": "口", "kunyomi": "くち", "onyomi": "コウ、ク" },
-    { "id": 48, "kanji": "手", "meaning": "手", "kunyomi": "て", "onyomi": "シュ" },
-    { "id": 49, "kanji": "足", "meaning": "足、満足する", "kunyomi": "あし、た(りる)", "onyomi": "ソク" },
-    { "id": 50, "kanji": "力", "meaning": "力、能力", "kunyomi": "ちから", "onyomi": "リョク、リキ" },
-    { "id": 51, "kanji": "雨", "meaning": "雨", "kunyomi": "あめ", "onyomi": "ウ" },
-    { "id": 52, "kanji": "天", "meaning": "天、空", "kunyomi": "あめ、あま", "onyomi": "テン" },
-    { "id": 53, "kanji": "気", "meaning": "気、気分", "kunyomi": "き", "onyomi": "キ、ケ" },
-    { "id": 54, "kanji": "車", "meaning": "車", "kunyomi": "くるま", "onyomi": "シャ" },
-    { "id": 55, "kanji": "駅", "meaning": "駅", "kunyomi": "えき", "onyomi": "エキ" },
-    { "id": 56, "kanji": "社", "meaning": "会社、神社", "kunyomi": "やしろ", "onyomi": "シャ" },
-    { "id": 57, "kanji": "校", "meaning": "学校、校舎", "kunyomi": "こう", "onyomi": "コウ" },
-    { "id": 58, "kanji": "字", "meaning": "文字、字", "kunyomi": "あざ", "onyomi": "ジ" },
-    { "id": 59, "kanji": "時", "meaning": "時間、時", "kunyomi": "とき", "onyomi": "ジ" },
-    { "id": 60, "kanji": "間", "meaning": "間、あいだ", "kunyomi": "あいだ", "onyomi": "カン、ケン" },
-    { "id": 61, "kanji": "聞", "meaning": "聞く", "kunyomi": "き(く)", "onyomi": "ブン、モン" },
-    { "id": 62, "kanji": "語", "meaning": "言葉、語る", "kunyomi": "かた(る)", "onyomi": "ゴ" },
-    { "id": 63, "kanji": "読", "meaning": "読む", "kunyomi": "よ(む)", "onyomi": "ドク、トク、トウ" },
-    { "id": 64, "kanji": "書", "meaning": "書く、書物", "kunyomi": "か(く)", "onyomi": "ショ" },
-    { "id": 65, "kanji": "買", "meaning": "買う", "kunyomi": "か(う)", "onyomi": "バイ" },
-    { "id": 66, "kanji": "友", "meaning": "友達", "kunyomi": "とも", "onyomi": "ユウ" },
-    { "id": 67, "kanji": "家", "meaning": "家、家庭", "kunyomi": "いえ、うち", "onyomi": "カ、ケ" },
-    { "id": 68, "kanji": "出", "meaning": "出る、出す", "kunyomi": "で(る)、だ(す)", "onyomi": "シュツ、スイ" },
-    { "id": 69, "kanji": "入", "meaning": "入る、入れる", "kunyomi": "はい(る)、い(れる)", "onyomi": "ニュウ" },
-    { "id": 70, "kanji": "立", "meaning": "立つ、立てる", "kunyomi": "た(つ)、た(てる)", "onyomi": "リツ、リュウ" },
-    { "id": 71, "kanji": "休", "meaning": "休む、休み", "kunyomi": "やす(む)", "onyomi": "キュウ" },
-    { "id": 72, "kanji": "花", "meaning": "花", "kunyomi": "はな", "onyomi": "カ" },
-    { "id": 73, "kanji": "町", "meaning": "町", "kunyomi": "まち", "onyomi": "チョウ" },
-    { "id": 74, "kanji": "店", "meaning": "店、お店", "kunyomi": "みせ", "onyomi": "テン" },
-    { "id": 75, "kanji": "道", "meaning": "道、道路", "kunyomi": "みち", "onyomi": "ドウ、トウ" },
-    { "id": 76, "kanji": "電", "meaning": "電気、電報", "kunyomi": "でん", "onyomi": "デン" },
-    { "id": 77, "kanji": "話", "meaning": "話す、話", "kunyomi": "はな(す)", "onyomi": "ワ" },
-    { "id": 78, "kanji": "図", "meaning": "図、絵", "kunyomi": "ず、はか(る)", "onyomi": "ズ、ト" },
-    { "id": 79, "kanji": "思", "meaning": "思う、考える", "kunyomi": "おも(う)", "onyomi": "シ" },
-    { "id": 80, "kanji": "知", "meaning": "知る", "kunyomi": "し(る)", "onyomi": "チ" },
-    { "id": 81, "kanji": "住", "meaning": "住む", "kunyomi": "す(む)", "onyomi": "ジュウ" },
-    { "id": 82, "kanji": "所", "meaning": "場所、所", "kunyomi": "ところ", "onyomi": "ショ" },
-    { "id": 83, "kanji": "持", "meaning": "持つ", "kunyomi": "も(つ)", "onyomi": "ジ" },
-    { "id": 84, "kanji": "待", "meaning": "待つ", "kunyomi": "ま(つ)", "onyomi": "タイ" },
-    { "id": 85, "kanji": "教", "meaning": "教える、教わる", "kunyomi": "おし(える)、おそ(わる)", "onyomi": "キョウ" },
-    { "id": 86, "kanji": "新", "meaning": "新しい", "kunyomi": "あたら(しい)", "onyomi": "シン" },
-    { "id": 87, "kanji": "古", "meaning": "古い", "kunyomi": "ふる(い)", "onyomi": "コ" },
-    { "id": 88, "kanji": "多", "meaning": "多い", "kunyomi": "おお(い)", "onyomi": "タ" },
-    { "id": 89, "kanji": "少", "meaning": "少ない、少し", "kunyomi": "すく(ない)、すこ(し)", "onyomi": "ショウ" },
-    { "id": 90, "kanji": "高", "meaning": "高い", "kunyomi": "たか(い)", "onyomi": "コウ" },
-    { "id": 91, "kanji": "安", "meaning": "安い、安心", "kunyomi": "やす(い)、やす(らか)", "onyomi": "アン" },
-    { "id": 92, "kanji": "広", "meaning": "広い", "kunyomi": "ひろ(い)", "onyomi": "コウ" },
-    { "id": 93, "kanji": "長", "meaning": "長い、長", "kunyomi": "なが(い)", "onyomi": "チョウ" },
-    { "id": 94, "kanji": "近", "meaning": "近い", "kunyomi": "ちか(い)", "onyomi": "キン" },
-    { "id": 95, "kanji": "明", "meaning": "明るい、明らか", "kunyomi": "あか(るい)、あき(らか)", "onyomi": "メイ、ミョウ" },
-    { "id": 96, "kanji": "暗", "meaning": "暗い", "kunyomi": "くら(い)", "onyomi": "アン" },
-    { "id": 97, "kanji": "病", "meaning": "病気", "kunyomi": "や(む)", "onyomi": "ビョウ" },
-    { "id": 98, "kanji": "院", "meaning": "病院、院", "kunyomi": "いん", "onyomi": "イン" },
-    { "id": 99, "kanji": "薬", "meaning": "薬", "kunyomi": "くすり", "onyomi": "ヤク" },
-    { "id": 100, "kanji": "歌", "meaning": "歌う、歌", "kunyomi": "うた(う)", "onyomi": "カ" },
-    { "id": 101, "kanji": "止", "meaning": "止まる、止める", "kunyomi": "と(まる)、と(める)", "onyomi": "シ" },
-    { "id": 102, "kanji": "歩", "meaning": "歩く", "kunyomi": "ある(く)", "onyomi": "ホ、ブ" }
+    {
+        "id": 1,
+        "kanji": "一",
+        "meaning": "one",
+        "kunyomi": "ひと－つ",
+        "onyomi": "いち",
+        "pronunciation": "いち"
+    },
+    {
+        "id": 2,
+        "kanji": "二",
+        "meaning": "two",
+        "kunyomi": "ふた－つ",
+        "onyomi": "に",
+        "pronunciation": "に"
+    },
+    {
+        "id": 3,
+        "kanji": "三",
+        "meaning": "three",
+        "kunyomi": "みっ－つ",
+        "onyomi": "さん",
+        "pronunciation": "さん"
+    },
+    {
+        "id": 4,
+        "kanji": "四",
+        "meaning": "four",
+        "kunyomi": "よん, よっ－つ",
+        "onyomi": "し",
+        "pronunciation": "し"
+    },
+    {
+        "id": 5,
+        "kanji": "五",
+        "meaning": "five",
+        "kunyomi": "いつ－つ",
+        "onyomi": "ご",
+        "pronunciation": "ご"
+    },
+    {
+        "id": 6,
+        "kanji": "六",
+        "meaning": "six",
+        "kunyomi": "むっ－つ, むい",
+        "onyomi": "ろく",
+        "pronunciation": "ろく"
+    },
+    {
+        "id": 7,
+        "kanji": "七",
+        "meaning": "seven",
+        "kunyomi": "なな－つ, なの, なぬ",
+        "onyomi": "しち",
+        "pronunciation": "しち"
+    },
+    {
+        "id": 8,
+        "kanji": "八",
+        "meaning": "eight",
+        "kunyomi": "やっ－つ, よう",
+        "onyomi": "はち",
+        "pronunciation": "はち"
+    },
+    {
+        "id": 9,
+        "kanji": "九",
+        "meaning": "nine",
+        "kunyomi": "ここの－つ",
+        "onyomi": "きゅう, く",
+        "pronunciation": "きゅう"
+    },
+    {
+        "id": 10,
+        "kanji": "十",
+        "meaning": "ten",
+        "kunyomi": "とお, とう",
+        "onyomi": "じゅう",
+        "pronunciation": "じゅう"
+    },
+    {
+        "id": 11,
+        "kanji": "百",
+        "meaning": "hundreds",
+        "kunyomi": "もも",
+        "onyomi": "ひゃく",
+        "pronunciation": "ひゃく"
+    },
+    {
+        "id": 12,
+        "kanji": "千",
+        "meaning": "thousand",
+        "kunyomi": "ち",
+        "onyomi": "せん",
+        "pronunciation": "せん"
+    },
+    {
+        "id": 13,
+        "kanji": "万",
+        "meaning": "ten thousand; myriad",
+        "kunyomi": "よろず",
+        "onyomi": "ばん, まん",
+        "pronunciation": "まん"
+    },
+    {
+        "id": 14,
+        "kanji": "月",
+        "meaning": "month, moon",
+        "kunyomi": "つき",
+        "onyomi": "げつ",
+        "pronunciation": "つき"
+    },
+    {
+        "id": 15,
+        "kanji": "火",
+        "meaning": "fire",
+        "kunyomi": "ひ",
+        "onyomi": "か",
+        "pronunciation": "ひ"
+    },
+    {
+        "id": 16,
+        "kanji": "水",
+        "meaning": "water",
+        "kunyomi": "みず",
+        "onyomi": "すい",
+        "pronunciation": "みず"
+    },
+    {
+        "id": 17,
+        "kanji": "木",
+        "meaning": "tree, wood",
+        "kunyomi": "き",
+        "onyomi": "もく",
+        "pronunciation": "き"
+    },
+    {
+        "id": 18,
+        "kanji": "金",
+        "meaning": "gold, metal; money",
+        "kunyomi": "かね",
+        "onyomi": "きん",
+        "pronunciation": "かね"
+    },
+    {
+        "id": 19,
+        "kanji": "土",
+        "meaning": "earth, soil",
+        "kunyomi": "つち",
+        "onyomi": "ど",
+        "pronunciation": "つち"
+    },
+    {
+        "id": 20,
+        "kanji": "日",
+        "meaning": "day, sun",
+        "kunyomi": "ひ",
+        "onyomi": "にち",
+        "pronunciation": "ひ"
+    },
+    {
+        "id": 21,
+        "kanji": "何",
+        "meaning": "what",
+        "kunyomi": "なに",
+        "onyomi": "か",
+        "pronunciation": "なに"
+    },
+    {
+        "id": 22,
+        "kanji": "今",
+        "meaning": "now",
+        "kunyomi": "いま",
+        "onyomi": "こん",
+        "pronunciation": "いま"
+    },
+    {
+        "id": 23,
+        "kanji": "先",
+        "meaning": "before, previous",
+        "kunyomi": "さき",
+        "onyomi": "せん",
+        "pronunciation": "さき"
+    },
+    {
+        "id": 24,
+        "kanji": "来",
+        "meaning": "to come",
+        "kunyomi": "くる",
+        "onyomi": "らい",
+        "pronunciation": "くる"
+    },
+    {
+        "id": 25,
+        "kanji": "年",
+        "meaning": "year",
+        "kunyomi": "とし",
+        "onyomi": "ねん",
+        "pronunciation": "とし"
+    },
+    {
+        "id": 26,
+        "kanji": "時",
+        "meaning": "time",
+        "kunyomi": "とき",
+        "onyomi": "じ",
+        "pronunciation": "とき"
+    },
+    {
+        "id": 27,
+        "kanji": "分",
+        "meaning": "minute, to understand",
+        "kunyomi": "わかる",
+        "onyomi": "ふん",
+        "pronunciation": "わかる"
+    },
+    {
+        "id": 28,
+        "kanji": "半",
+        "meaning": "half",
+        "kunyomi": "なかば",
+        "onyomi": "はん",
+        "pronunciation": "なかば"
+    },
+    {
+        "id": 29,
+        "kanji": "午",
+        "meaning": "noon",
+        "kunyomi": "うま",
+        "onyomi": "ご",
+        "pronunciation": "うま"
+    },
+    {
+        "id": 30,
+        "kanji": "前",
+        "meaning": "before, front",
+        "kunyomi": "まえ",
+        "onyomi": "ぜん",
+        "pronunciation": "まえ"
+    },
+    {
+        "id": 31,
+        "kanji": "後",
+        "meaning": "after, behind",
+        "kunyomi": "あと",
+        "onyomi": "ご",
+        "pronunciation": "あと"
+    },
+    {
+        "id": 32,
+        "kanji": "人",
+        "meaning": "person",
+        "kunyomi": "ひと",
+        "onyomi": "じん",
+        "pronunciation": "ひと"
+    },
+    {
+        "id": 33,
+        "kanji": "子",
+        "meaning": "child",
+        "kunyomi": "こ",
+        "onyomi": "し",
+        "pronunciation": "こ"
+    },
+    {
+        "id": 34,
+        "kanji": "女",
+        "meaning": "woman",
+        "kunyomi": "おんな",
+        "onyomi": "じょ",
+        "pronunciation": "おんな"
+    },
+    {
+        "id": 35,
+        "kanji": "男",
+        "meaning": "man",
+        "kunyomi": "おとこ",
+        "onyomi": "だん",
+        "pronunciation": "おとこ"
+    },
+    {
+        "id": 36,
+        "kanji": "友",
+        "meaning": "friend",
+        "kunyomi": "とも",
+        "onyomi": "ゆう",
+        "pronunciation": "とも"
+    },
+    {
+        "id": 37,
+        "kanji": "母",
+        "meaning": "mother",
+        "kunyomi": "はは",
+        "onyomi": "ぼ",
+        "pronunciation": "はは"
+    },
+    {
+        "id": 38,
+        "kanji": "父",
+        "meaning": "father",
+        "kunyomi": "ちち",
+        "onyomi": "ふ",
+        "pronunciation": "ちち"
+    },
+    {
+        "id": 39,
+        "kanji": "兄",
+        "meaning": "older brother",
+        "kunyomi": "あに",
+        "onyomi": "けい",
+        "pronunciation": "あに"
+    },
+    {
+        "id": 40,
+        "kanji": "姉",
+        "meaning": "older sister",
+        "kunyomi": "あね",
+        "onyomi": "し",
+        "pronunciation": "あね"
+    },
+    {
+        "id": 41,
+        "kanji": "弟",
+        "meaning": "younger brother",
+        "kunyomi": "おとうと",
+        "onyomi": "てい",
+        "pronunciation": "おとうと"
+    },
+    {
+        "id": 42,
+        "kanji": "妹",
+        "meaning": "younger sister",
+        "kunyomi": "いもうと",
+        "onyomi": "まい",
+        "pronunciation": "いもうと"
+    },
+    {
+        "id": 43,
+        "kanji": "本",
+        "meaning": "book, origin",
+        "kunyomi": "もと",
+        "onyomi": "ほん",
+        "pronunciation": "ほん"
+    },
+    {
+        "id": 44,
+        "kanji": "学",
+        "meaning": "study",
+        "kunyomi": "まなぶ",
+        "onyomi": "がく",
+        "pronunciation": "まなぶ"
+    },
+    {
+        "id": 45,
+        "kanji": "校",
+        "meaning": "school",
+        "kunyomi": "",
+        "onyomi": "こう",
+        "pronunciation": "こう"
+    },
+    {
+        "id": 46,
+        "kanji": "生",
+        "meaning": "life, birth",
+        "kunyomi": "いきる",
+        "onyomi": "せい",
+        "pronunciation": "いきる"
+    },
+    {
+        "id": 47,
+        "kanji": "車",
+        "meaning": "car",
+        "kunyomi": "くるま",
+        "onyomi": "しゃ",
+        "pronunciation": "くるま"
+    },
+    {
+        "id": 48,
+        "kanji": "駅",
+        "meaning": "station",
+        "kunyomi": "",
+        "onyomi": "えき",
+        "pronunciation": "えき"
+    },
+    {
+        "id": 49,
+        "kanji": "道",
+        "meaning": "road, path",
+        "kunyomi": "みち",
+        "onyomi": "どう",
+        "pronunciation": "みち"
+    },
+    {
+        "id": 50,
+        "kanji": "町",
+        "meaning": "town",
+        "kunyomi": "まち",
+        "onyomi": "ちょう",
+        "pronunciation": "まち"
+    },
+    {
+        "id": 51,
+        "kanji": "山",
+        "meaning": "mountain",
+        "kunyomi": "やま",
+        "onyomi": "さん",
+        "pronunciation": "やま"
+    },
+    {
+        "id": 52,
+        "kanji": "川",
+        "meaning": "river",
+        "kunyomi": "かわ",
+        "onyomi": "せん",
+        "pronunciation": "かわ"
+    },
+    {
+        "id": 53,
+        "kanji": "天",
+        "meaning": "heaven, sky",
+        "kunyomi": "",
+        "onyomi": "てん",
+        "pronunciation": "てん"
+    },
+    {
+        "id": 54,
+        "kanji": "空",
+        "meaning": "sky",
+        "kunyomi": "そら",
+        "onyomi": "くう",
+        "pronunciation": "そら"
+    },
+    {
+        "id": 55,
+        "kanji": "雨",
+        "meaning": "rain",
+        "kunyomi": "あめ",
+        "onyomi": "",
+        "pronunciation": "あめ"
+    },
+    {
+        "id": 56,
+        "kanji": "気",
+        "meaning": "spirit, feeling",
+        "kunyomi": "",
+        "onyomi": "き",
+        "pronunciation": "き"
+    },
+    {
+        "id": 57,
+        "kanji": "花",
+        "meaning": "flower",
+        "kunyomi": "はな",
+        "onyomi": "か",
+        "pronunciation": "はな"
+    },
+    {
+        "id": 58,
+        "kanji": "森",
+        "meaning": "forest",
+        "kunyomi": "もり",
+        "onyomi": "",
+        "pronunciation": "もり"
+    },
+    {
+        "id": 59,
+        "kanji": "林",
+        "meaning": "woods",
+        "kunyomi": "はやし",
+        "onyomi": "",
+        "pronunciation": "はやし"
+    },
+    {
+        "id": 60,
+        "kanji": "牛",
+        "meaning": "cow",
+        "kunyomi": "うし",
+        "onyomi": "",
+        "pronunciation": "うし"
+    },
+    {
+        "id": 61,
+        "kanji": "魚",
+        "meaning": "fish",
+        "kunyomi": "さかな",
+        "onyomi": "ぎょ",
+        "pronunciation": "さかな"
+    },
+    {
+        "id": 62,
+        "kanji": "鳥",
+        "meaning": "bird",
+        "kunyomi": "とり",
+        "onyomi": "",
+        "pronunciation": "とり"
+    },
+    {
+        "id": 63,
+        "kanji": "上",
+        "meaning": "up",
+        "kunyomi": "うえ",
+        "onyomi": "じょう",
+        "pronunciation": "うえ"
+    },
+    {
+        "id": 64,
+        "kanji": "下",
+        "meaning": "down",
+        "kunyomi": "した",
+        "onyomi": "か",
+        "pronunciation": "した"
+    },
+    {
+        "id": 65,
+        "kanji": "左",
+        "meaning": "left",
+        "kunyomi": "ひだり",
+        "onyomi": "さ",
+        "pronunciation": "ひだり"
+    },
+    {
+        "id": 66,
+        "kanji": "右",
+        "meaning": "right",
+        "kunyomi": "みぎ",
+        "onyomi": "う",
+        "pronunciation": "みぎ"
+    },
+    {
+        "id": 67,
+        "kanji": "東",
+        "meaning": "east",
+        "kunyomi": "ひがし",
+        "onyomi": "とう",
+        "pronunciation": "ひがし"
+    },
+    {
+        "id": 68,
+        "kanji": "西",
+        "meaning": "west",
+        "kunyomi": "にし",
+        "onyomi": "せい",
+        "pronunciation": "にし"
+    },
+    {
+        "id": 69,
+        "kanji": "南",
+        "meaning": "south",
+        "kunyomi": "みなみ",
+        "onyomi": "なん",
+        "pronunciation": "みなみ"
+    },
+    {
+        "id": 70,
+        "kanji": "北",
+        "meaning": "north",
+        "kunyomi": "きた",
+        "onyomi": "ほく",
+        "pronunciation": "きた"
+    },
+    {
+        "id": 71,
+        "kanji": "外",
+        "meaning": "outside",
+        "kunyomi": "そと",
+        "onyomi": "がい",
+        "pronunciation": "そと"
+    },
+    {
+        "id": 72,
+        "kanji": "行",
+        "meaning": "to go",
+        "kunyomi": "いく",
+        "onyomi": "こう",
+        "pronunciation": "いく"
+    },
+    {
+        "id": 73,
+        "kanji": "来",
+        "meaning": "to come",
+        "kunyomi": "くる",
+        "onyomi": "らい",
+        "pronunciation": "くる"
+    },
+    {
+        "id": 74,
+        "kanji": "見",
+        "meaning": "to see",
+        "kunyomi": "みる",
+        "onyomi": "けん",
+        "pronunciation": "みる"
+    },
+    {
+        "id": 75,
+        "kanji": "話",
+        "meaning": "to speak",
+        "kunyomi": "はなす",
+        "onyomi": "わ",
+        "pronunciation": "はなす"
+    },
+    {
+        "id": 76,
+        "kanji": "聞",
+        "meaning": "to hear",
+        "kunyomi": "きく",
+        "onyomi": "ぶん",
+        "pronunciation": "きく"
+    },
+    {
+        "id": 77,
+        "kanji": "言",
+        "meaning": "to say",
+        "kunyomi": "いう",
+        "onyomi": "げん",
+        "pronunciation": "いう"
+    },
+    {
+        "id": 78,
+        "kanji": "読",
+        "meaning": "to read",
+        "kunyomi": "よむ",
+        "onyomi": "どく",
+        "pronunciation": "よむ"
+    },
+    {
+        "id": 79,
+        "kanji": "書",
+        "meaning": "to write",
+        "kunyomi": "かく",
+        "onyomi": "しょ",
+        "pronunciation": "かく"
+    },
+    {
+        "id": 80,
+        "kanji": "食",
+        "meaning": "to eat",
+        "kunyomi": "たべる",
+        "onyomi": "しょく",
+        "pronunciation": "たべる"
+    },
+    {
+        "id": 81,
+        "kanji": "飲",
+        "meaning": "to drink",
+        "kunyomi": "のむ",
+        "onyomi": "いん",
+        "pronunciation": "のむ"
+    },
+    {
+        "id": 82,
+        "kanji": "買",
+        "meaning": "to buy",
+        "kunyomi": "かう",
+        "onyomi": "ばい",
+        "pronunciation": "かう"
+    },
+    {
+        "id": 83,
+        "kanji": "売",
+        "meaning": "to sell",
+        "kunyomi": "うる",
+        "onyomi": "ばい",
+        "pronunciation": "うる"
+    },
+    {
+        "id": 84,
+        "kanji": "立",
+        "meaning": "to stand",
+        "kunyomi": "たつ",
+        "onyomi": "りつ",
+        "pronunciation": "たつ"
+    },
+    {
+        "id": 85,
+        "kanji": "休",
+        "meaning": "to rest",
+        "kunyomi": "やすむ",
+        "onyomi": "きゅう",
+        "pronunciation": "やすむ"
+    },
+    {
+        "id": 86,
+        "kanji": "入",
+        "meaning": "to enter",
+        "kunyomi": "いる",
+        "onyomi": "にゅう",
+        "pronunciation": "いる"
+    },
+    {
+        "id": 87,
+        "kanji": "出",
+        "meaning": "to exit",
+        "kunyomi": "でる",
+        "onyomi": "しゅつ",
+        "pronunciation": "でる"
+    },
+    {
+        "id": 88,
+        "kanji": "長",
+        "meaning": "long",
+        "kunyomi": "ながい",
+        "onyomi": "ちょう",
+        "pronunciation": "ながい"
+    },
+    {
+        "id": 89,
+        "kanji": "高",
+        "meaning": "high, expensive",
+        "kunyomi": "たかい",
+        "onyomi": "こう",
+        "pronunciation": "たかい"
+    },
+    {
+        "id": 90,
+        "kanji": "安",
+        "meaning": "cheap, safe",
+        "kunyomi": "やすい",
+        "onyomi": "あん",
+        "pronunciation": "やすい"
+    },
+    {
+        "id": 91,
+        "kanji": "新",
+        "meaning": "new",
+        "kunyomi": "あたらしい",
+        "onyomi": "しん",
+        "pronunciation": "あたらしい"
+    },
+    {
+        "id": 92,
+        "kanji": "古",
+        "meaning": "old",
+        "kunyomi": "ふるい",
+        "onyomi": "こ",
+        "pronunciation": "ふるい"
+    },
+    {
+        "id": 93,
+        "kanji": "白",
+        "meaning": "white",
+        "kunyomi": "しろい",
+        "onyomi": "はく",
+        "pronunciation": "しろい"
+    },
+    {
+        "id": 94,
+        "kanji": "黒",
+        "meaning": "black",
+        "kunyomi": "くろい",
+        "onyomi": "こく",
+        "pronunciation": "くろい"
+    },
+    {
+        "id": 95,
+        "kanji": "赤",
+        "meaning": "red",
+        "kunyomi": "あかい",
+        "onyomi": "せき",
+        "pronunciation": "あかい"
+    },
+    {
+        "id": 96,
+        "kanji": "青",
+        "meaning": "blue",
+        "kunyomi": "あおい",
+        "onyomi": "せい",
+        "pronunciation": "あおい"
+    },
+    {
+        "id": 97,
+        "kanji": "多",
+        "meaning": "many",
+        "kunyomi": "おおい",
+        "onyomi": "た",
+        "pronunciation": "おおい"
+    },
+    {
+        "id": 98,
+        "kanji": "少",
+        "meaning": "few",
+        "kunyomi": "すくない",
+        "onyomi": "しょう",
+        "pronunciation": "すくない"
+    },
+    {
+        "id": 99,
+        "kanji": "大",
+        "meaning": "big",
+        "kunyomi": "おおきい",
+        "onyomi": "だい",
+        "pronunciation": "おおきい"
+    },
+    {
+        "id": 100,
+        "kanji": "小",
+        "meaning": "small",
+        "kunyomi": "ちいさい",
+        "onyomi": "しょう",
+        "pronunciation": "ちいさい"
+    },
+    {
+        "id": 101,
+        "kanji": "円",
+        "meaning": "yen, circle",
+        "kunyomi": "",
+        "onyomi": "えん",
+        "pronunciation": "えん"
+    },
+    {
+        "id": 102,
+        "kanji": "名",
+        "meaning": "name",
+        "kunyomi": "な",
+        "onyomi": "めい",
+        "pronunciation": "な"
+    },
+    {
+        "id": 103,
+        "kanji": "口",
+        "meaning": "mouth",
+        "kunyomi": "くち",
+        "onyomi": "こう",
+        "pronunciation": "くち"
+    }
 ]
