@@ -16,11 +16,13 @@ import vocabData from "@/n5vocab.json";
 const typedVocabData = vocabData as VocabData;
 
 export default function VocabPage() {
-  const [currentIndex, setCurrentIndex] = useState(0);
   const [currentCategory, setCurrentCategory] = useState(Object.keys(typedVocabData)[0]);
+  const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
   const [isReviewing, setIsReviewing] = useState(false);
   const [reviewStack, setReviewStack] = useState<number[]>([]);
+
+  const categoryVocab = Object.entries(typedVocabData[currentCategory]);
 
   useEffect(() => {
     if (!window.speechSynthesis) {
@@ -28,14 +30,8 @@ export default function VocabPage() {
     }
   }, []);
 
-  const handleCategoryChange = (category: string) => {
-    setCurrentCategory(category);
-    setCurrentIndex(0);
-  };
-
   const moveToNext = () => {
     setIsFlipped(false);
-    const categoryVocab = Object.entries(typedVocabData[currentCategory]);
     if (currentIndex < categoryVocab.length - 1) {
       setCurrentIndex(currentIndex + 1);
     } else if (reviewStack.length > 0 && !isReviewing) {
@@ -63,35 +59,35 @@ export default function VocabPage() {
     setIsFlipped(!isFlipped);
   };
 
-  const categoryVocab = Object.entries(typedVocabData[currentCategory]).map(([japanese, english]) => ({
-    english,
-    japanese
-  }));
-  const progress = Math.round(((currentIndex + 1) / categoryVocab.length) * 100);
-  const isComplete = progress === 100 && reviewStack.length === 0;
+  const progress = Math.round((currentIndex / (categoryVocab.length - 1)) * 100);
+  const isComplete = currentIndex >= categoryVocab.length - 1 && reviewStack.length === 0;
 
   return (
     <main className="select-none flex min-h-screen flex-col items-center justify-between p-4 md:p-24 bg-gray-50">
       <div className="w-full max-w-2xl mx-auto flex flex-col items-center">
         <h1 className="text-3xl font-bold mb-8 text-center">Vocabulary Flashcards</h1>
 
-        <div className="w-full mb-4">
-          <ProgressBar progress={progress} />
-          <p className="text-sm text-center mt-2">{isReviewing ? "Review Mode" : `${progress}% Complete`}</p>
-        </div>
-
         {/* Category Selection */}
-        <div className="mb-6 grid md:grid-cols-3 grid-cols-2">
-          {Object.keys(typedVocabData).map((category, index) => (
+        <div className="mb-6 grid md:grid-cols-3 grid-cols-2 gap-2">
+          {Object.keys(typedVocabData).map((category) => (
             <Button
-              key={index}
+              key={category}
               variant="ghost"
-              className={`mr-2 px-4 ${currentCategory === category ? 'bg-blue-500 text-white' : 'text-blue-500'}`}
-              onClick={() => handleCategoryChange(category)}
+              className={`${currentCategory === category ? 'bg-blue-500 text-white' : 'text-blue-500'}`}
+              onClick={() => {
+                setCurrentCategory(category);
+                setCurrentIndex(0);
+                setIsFlipped(false);
+              }}
             >
               {category}
             </Button>
           ))}
+        </div>
+
+        <div className="w-full mb-4">
+          <ProgressBar progress={progress} />
+          <p className="text-sm text-center mt-2">{isReviewing ? "Review Mode" : `${progress}% Complete`}</p>
         </div>
 
         {isComplete ? (
@@ -105,16 +101,19 @@ export default function VocabPage() {
           </div>
         ) : (
           <>
-            {categoryVocab[currentIndex] ? (
+            {categoryVocab[currentIndex] && (
               <VocabCard
-                vocabData={categoryVocab[currentIndex]}
+                vocabData={{
+                  Romaji: categoryVocab[currentIndex][0],
+                  Kanji: categoryVocab[currentIndex][1],
+                  Furigana: categoryVocab[currentIndex][1].match(/\((.*?)\)/)?.[1] || '',
+                  Meaning: categoryVocab[currentIndex][0]
+                }}
                 isFlipped={isFlipped}
                 onSwipeLeft={moveToPrevious}
                 onSwipeRight={moveToNext}
                 onClick={toggleFlip}
               />
-            ) : (
-              <p>No cards available in this category.</p>
             )}
 
             <div className="flex gap-4 mt-8">
@@ -130,7 +129,7 @@ export default function VocabPage() {
                 variant="outline"
                 className="flex-1 border-gray-300 hover:bg-gray-50 hover:text-gray-600"
                 onClick={moveToNext}
-                disabled={currentIndex === categoryVocab.length - 1}
+                disabled={isComplete}
               >
                 Next
               </Button>

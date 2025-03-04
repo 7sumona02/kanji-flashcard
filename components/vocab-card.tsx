@@ -1,15 +1,16 @@
 "use client"
 
 import type React from "react"
-
 import { useState, useRef, useEffect } from "react"
 import { motion } from "framer-motion"
 import { Mic } from "lucide-react"
 
 interface VocabCardProps {
   vocabData: {
-    english: string
-    japanese: string
+    Kanji: string
+    Furigana: string
+    Romaji: string
+    Meaning: string
   }
   isFlipped: boolean
   onSwipeLeft: () => void
@@ -137,22 +138,22 @@ export default function VocabCard({ vocabData, isFlipped, onSwipeLeft, onSwipeRi
         onClick={handleClick}
       >
         {/* Front of card (English) */}
-        <div className="absolute w-full h-full backface-hidden rounded-xl shadow-lg flex flex-col items-center justify-center p-6 bg-white">
-          <span className="text-4xl font-bold mb-4">{vocabData.english}</span>
-          <div className="text-sm text-gray-500">Tap to flip or swipe to answer</div>
+        <div className="absolute w-full h-full backface-hidden rounded-xl shadow-lg flex flex-col items-center justify-center p-6 bg-white rotate-y-180">
+          <h3 className="text-xl font-bold mb-4">Meaning</h3>
+          <span className="text-4xl font-bold mb-4">{vocabData.Meaning}</span>
         </div>
 
         {/* Back of card (Japanese) */}
-        <div className="absolute w-full h-full backface-hidden rounded-xl shadow-lg flex flex-col items-center justify-center p-6 bg-white rotate-y-180">
+        <div className="absolute w-full h-full backface-hidden rounded-xl shadow-lg flex flex-col items-center justify-center p-6 bg-white">
           <div className="text-center">
-            <h3 className="text-xl font-bold mb-4">Meaning</h3>
-            <p className="text-4xl font-bold mb-4">{vocabData.japanese}</p>
+            {vocabData.Kanji && <p className="text-7xl font-bold mb-2">{vocabData.Kanji[0]}</p>}
+            <p className="text-2xl mb-2">{vocabData.Furigana}</p>
           </div>
           {/* <button
             className="mt-4 text-sm text-blue-500 hover:text-blue-700"
             onClick={(e) => {
               e.stopPropagation()
-              speak(vocabData.english[0]) // Speak the Japanese word
+              speak(vocabData.Furigana) // Speak the Japanese word
             }}
           >
             <Mic />

@@ -1,0 +1,4304 @@
+[
+    {
+      "Kanji": "",
+      "Furigana": "ああ",
+      "Romaji": "ah",
+      "Meaning": "Ah!"
+    },
+    {
+      "Kanji": "会う",
+      "Furigana": "あう",
+      "Romaji": "au",
+      "Meaning": "to meet"
+    },
+    {
+      "Kanji": "青い",
+      "Furigana": "あおい",
+      "Romaji": "aoi",
+      "Meaning": "blue"
+    },
+    {
+      "Kanji": "赤い",
+      "Furigana": "あかい",
+      "Romaji": "akai",
+      "Meaning": "red"
+    },
+    {
+      "Kanji": "明るい",
+      "Furigana": "あかるい",
+      "Romaji": "akarui",
+      "Meaning": "light, bright"
+    },
+    {
+      "Kanji": "秋",
+      "Furigana": "あき",
+      "Romaji": "aki",
+      "Meaning": "autumn, fall"
+    },
+    {
+      "Kanji": "開く",
+      "Furigana": "あく",
+      "Romaji": "aku",
+      "Meaning": "open"
+    },
+    {
+      "Kanji": "開ける",
+      "Furigana": "あける",
+      "Romaji": "akeru",
+      "Meaning": "to open"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "あげる",
+      "Romaji": "ageru",
+      "Meaning": "to give"
+    },
+    {
+      "Kanji": "朝",
+      "Furigana": "あさ",
+      "Romaji": "asa",
+      "Meaning": "morning"
+    },
+    {
+      "Kanji": "朝ご飯",
+      "Furigana": "あさごはん",
+      "Romaji": "asagohan",
+      "Meaning": "breakfast"
+    },
+    {
+      "Kanji": "あさって",
+      "Furigana": "あさって",
+      "Romaji": "asatte",
+      "Meaning": "the day after tomorrow"
+    },
+    {
+      "Kanji": "足",
+      "Furigana": "あし",
+      "Romaji": "ashi",
+      "Meaning": "leg, foot"
+    },
+    {
+      "Kanji": "明日",
+      "Furigana": "あした",
+      "Romaji": "ashita",
+      "Meaning": "tomorrow"
+    },
+    {
+      "Kanji": "あそこ",
+      "Furigana": "あそこ",
+      "Romaji": "asoko",
+      "Meaning": "over there"
+    },
+    {
+      "Kanji": "遊ぶ",
+      "Furigana": "あそぶ",
+      "Romaji": "asobu",
+      "Meaning": "to play"
+    },
+    {
+      "Kanji": "温かい",
+      "Furigana": "あたたかい",
+      "Romaji": "atatakai",
+      "Meaning": "warm"
+    },
+    {
+      "Kanji": "頭",
+      "Furigana": "あたま",
+      "Romaji": "atama",
+      "Meaning": "head"
+    },
+    {
+      "Kanji": "新しい",
+      "Furigana": "あたらしい",
+      "Romaji": "atarashii",
+      "Meaning": "new"
+    },
+    {
+      "Kanji": "あちら",
+      "Furigana": "あちら",
+      "Romaji": "achira",
+      "Meaning": "over there (polite)"
+    },
+    {
+      "Kanji": "暑い",
+      "Furigana": "あつい",
+      "Romaji": "atsui",
+      "Meaning": "hot (air)"
+    },
+    {
+      "Kanji": "厚い",
+      "Furigana": "あつい",
+      "Romaji": "atsui",
+      "Meaning": "thick"
+    },
+    {
+      "Kanji": "後",
+      "Furigana": "あと",
+      "Romaji": "ato",
+      "Meaning": "later, after"
+    },
+    {
+      "Kanji": "貴方",
+      "Furigana": "あなた",
+      "Romaji": "anata",
+      "Meaning": "you"
+    },
+    {
+      "Kanji": "兄",
+      "Furigana": "あに",
+      "Romaji": "ani",
+      "Meaning": "older brother"
+    },
+    {
+      "Kanji": "姉",
+      "Furigana": "あね",
+      "Romaji": "ane",
+      "Meaning": "older sister"
+    },
+    {
+      "Kanji": "あの",
+      "Furigana": "あの",
+      "Romaji": "ano",
+      "Meaning": "that (over there)"
+    },
+    {
+      "Kanji": "あの",
+      "Furigana": "あの",
+      "Romaji": "ano",
+      "Meaning": "well, then"
+    },
+    {
+      "Kanji": "アパート",
+      "Furigana": "アパート",
+      "Romaji": "apaato",
+      "Meaning": "apartment"
+    },
+    {
+      "Kanji": "浴びる",
+      "Furigana": "あびる",
+      "Romaji": "abiru",
+      "Meaning": "to take a shower"
+    },
+    {
+      "Kanji": "危ない",
+      "Furigana": "あぶない",
+      "Romaji": "abunai",
+      "Meaning": "dangerous"
+    },
+    {
+      "Kanji": "甘い",
+      "Furigana": "あまい",
+      "Romaji": "amai",
+      "Meaning": "sweet"
+    },
+    {
+      "Kanji": "あまり",
+      "Furigana": "あまり",
+      "Romaji": "amari",
+      "Meaning": "not so"
+    },
+    {
+      "Kanji": "雨",
+      "Furigana": "あめ",
+      "Romaji": "ame",
+      "Meaning": "rain"
+    },
+    {
+      "Kanji": "洗う",
+      "Furigana": "あらう",
+      "Romaji": "arau",
+      "Meaning": "to wash"
+    },
+    {
+      "Kanji": "有る",
+      "Furigana": "ある",
+      "Romaji": "aru",
+      "Meaning": "to be, to exist"
+    },
+    {
+      "Kanji": "ある",
+      "Furigana": "ある",
+      "Romaji": "aru",
+      "Meaning": "to possess"
+    },
+    {
+      "Kanji": "歩く",
+      "Furigana": "あるく",
+      "Romaji": "aruku",
+      "Meaning": "to walk"
+    },
+    {
+      "Kanji": "あれ",
+      "Furigana": "あれ",
+      "Romaji": "are",
+      "Meaning": "that one"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "良い",
+      "Furigana": "いい / よい",
+      "Romaji": "ii, yoi",
+      "Meaning": "good"
+    },
+    {
+      "Kanji": "いいえ",
+      "Furigana": "いいえ",
+      "Romaji": "iie",
+      "Meaning": "no"
+    },
+    {
+      "Kanji": "言う",
+      "Furigana": "いう",
+      "Romaji": "iu",
+      "Meaning": "to say, to tell"
+    },
+    {
+      "Kanji": "家",
+      "Furigana": "いえ",
+      "Romaji": "ie",
+      "Meaning": "house, home"
+    },
+    {
+      "Kanji": "行く",
+      "Furigana": "いく",
+      "Romaji": "iku",
+      "Meaning": "to go"
+    },
+    {
+      "Kanji": "いくつ",
+      "Furigana": "いくつ",
+      "Romaji": "ikutsu",
+      "Meaning": "how many, how old"
+    },
+    {
+      "Kanji": "いくら",
+      "Furigana": "いくら",
+      "Romaji": "ikura",
+      "Meaning": "how much"
+    },
+    {
+      "Kanji": "池",
+      "Furigana": "いけ",
+      "Romaji": "ike",
+      "Meaning": "pond"
+    },
+    {
+      "Kanji": "医者",
+      "Furigana": "いしゃ",
+      "Romaji": "isha",
+      "Meaning": "doctor"
+    },
+    {
+      "Kanji": "椅子",
+      "Furigana": "いす",
+      "Romaji": "isu",
+      "Meaning": "chair"
+    },
+    {
+      "Kanji": "忙しい",
+      "Furigana": "いそがしい",
+      "Romaji": "isogashii",
+      "Meaning": "to be busy"
+    },
+    {
+      "Kanji": "痛い",
+      "Furigana": "いたい",
+      "Romaji": "itai",
+      "Meaning": "to be painful"
+    },
+    {
+      "Kanji": "一",
+      "Furigana": "いち",
+      "Romaji": "ichi",
+      "Meaning": "one"
+    },
+    {
+      "Kanji": "一日",
+      "Furigana": "いちにち",
+      "Romaji": "ichinichi",
+      "Meaning": "one day"
+    },
+    {
+      "Kanji": "一番",
+      "Furigana": "いちばん",
+      "Romaji": "ichiban",
+      "Meaning": "No. 1, the best, the first"
+    },
+    {
+      "Kanji": "いつ",
+      "Furigana": "いつ",
+      "Romaji": "itsu",
+      "Meaning": "when"
+    },
+    {
+      "Kanji": "五日",
+      "Furigana": "いつか",
+      "Romaji": "itsuka",
+      "Meaning": "the 5th day of the month, 5 days"
+    },
+    {
+      "Kanji": "一緒",
+      "Furigana": "いっしょ",
+      "Romaji": "issho",
+      "Meaning": "together"
+    },
+    {
+      "Kanji": "五つ",
+      "Furigana": "いつつ",
+      "Romaji": "itsutsu",
+      "Meaning": "five"
+    },
+    {
+      "Kanji": "いつも",
+      "Furigana": "いつも",
+      "Romaji": "itsumo",
+      "Meaning": "always"
+    },
+    {
+      "Kanji": "今",
+      "Furigana": "いま",
+      "Romaji": "ima",
+      "Meaning": "now"
+    },
+    {
+      "Kanji": "意味",
+      "Furigana": "いみ",
+      "Romaji": "imi",
+      "Meaning": "meaning"
+    },
+    {
+      "Kanji": "妹",
+      "Furigana": "いもうと",
+      "Romaji": "imouto",
+      "Meaning": "someone’s younger sister"
+    },
+    {
+      "Kanji": "いや",
+      "Furigana": "いや",
+      "Romaji": "iya",
+      "Meaning": "not likable, unpleasant"
+    },
+    {
+      "Kanji": "入口",
+      "Furigana": "いりぐち",
+      "Romaji": "iriguchi",
+      "Meaning": "entrance"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "いる",
+      "Romaji": "iru",
+      "Meaning": "need, must have, be required"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "いる",
+      "Romaji": "iru",
+      "Meaning": "to exist"
+    },
+    {
+      "Kanji": "入れる",
+      "Furigana": "いれる",
+      "Romaji": "ireru",
+      "Meaning": "to insert, to put in"
+    },
+    {
+      "Kanji": "色",
+      "Furigana": "いろ",
+      "Romaji": "iro",
+      "Meaning": "color"
+    },
+    {
+      "Kanji": "色々",
+      "Furigana": "いろいろ",
+      "Romaji": "iroiro",
+      "Meaning": "various"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "上",
+      "Furigana": "うえ",
+      "Romaji": "ue",
+      "Meaning": "top, on, above"
+    },
+    {
+      "Kanji": "後ろ",
+      "Furigana": "うしろ",
+      "Romaji": "ushiro",
+      "Meaning": "back, rear, behind"
+    },
+    {
+      "Kanji": "薄い",
+      "Furigana": "うすい",
+      "Romaji": "usui",
+      "Meaning": "thin"
+    },
+    {
+      "Kanji": "歌",
+      "Furigana": "うた",
+      "Romaji": "uta",
+      "Meaning": "song"
+    },
+    {
+      "Kanji": "歌う",
+      "Furigana": "うたう",
+      "Romaji": "utau",
+      "Meaning": "to sing"
+    },
+    {
+      "Kanji": "内",
+      "Furigana": "うち",
+      "Romaji": "uchi",
+      "Meaning": "home"
+    },
+    {
+      "Kanji": "生まれる",
+      "Furigana": "うまれる",
+      "Romaji": "umareru",
+      "Meaning": "to be born"
+    },
+    {
+      "Kanji": "海",
+      "Furigana": "うみ",
+      "Romaji": "umi",
+      "Meaning": "sea"
+    },
+    {
+      "Kanji": "売る",
+      "Furigana": "うる",
+      "Romaji": "uru",
+      "Meaning": "to sell"
+    },
+    {
+      "Kanji": "上着",
+      "Furigana": "うわぎ",
+      "Romaji": "uwagi",
+      "Meaning": "coat, jacket"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "絵",
+      "Furigana": "え",
+      "Romaji": "e",
+      "Meaning": "picture"
+    },
+    {
+      "Kanji": "映画",
+      "Furigana": "えいが",
+      "Romaji": "eiga",
+      "Meaning": "movie"
+    },
+    {
+      "Kanji": "映画館",
+      "Furigana": "えいがかん",
+      "Romaji": "eigakan",
+      "Meaning": "cinema"
+    },
+    {
+      "Kanji": "英語",
+      "Furigana": "えいご",
+      "Romaji": "eigo",
+      "Meaning": "English language"
+    },
+    {
+      "Kanji": "ええ",
+      "Furigana": "ええ",
+      "Romaji": "ee",
+      "Meaning": "Yes, I see"
+    },
+    {
+      "Kanji": "駅",
+      "Furigana": "えき",
+      "Romaji": "eki",
+      "Meaning": "station"
+    },
+    {
+      "Kanji": "エレベータ",
+      "Furigana": "エレベータ",
+      "Romaji": "erebeeta",
+      "Meaning": "elevator"
+    },
+    {
+      "Kanji": "円",
+      "Furigana": "えん",
+      "Romaji": "en",
+      "Meaning": "Yen"
+    },
+    {
+      "Kanji": "鉛筆",
+      "Furigana": "えんぴつ",
+      "Romaji": "enpitsu",
+      "Meaning": "pencil"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "御",
+      "Furigana": "お",
+      "Romaji": "o",
+      "Meaning": "honorific prefix"
+    },
+    {
+      "Kanji": "美味しい",
+      "Furigana": "おいしい",
+      "Romaji": "oishii",
+      "Meaning": "tasty, delicious"
+    },
+    {
+      "Kanji": "大きい",
+      "Furigana": "おおきい",
+      "Romaji": "ookii",
+      "Meaning": "big"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "おおぜい",
+      "Romaji": "oozei",
+      "Meaning": "many people"
+    },
+    {
+      "Kanji": "お母さん",
+      "Furigana": "おかあさん",
+      "Romaji": "okaasan",
+      "Meaning": "my own mother"
+    },
+    {
+      "Kanji": "お菓子",
+      "Furigana": "おかし",
+      "Romaji": "okashi",
+      "Meaning": "confectionary, cake"
+    },
+    {
+      "Kanji": "お金",
+      "Furigana": "おかね",
+      "Romaji": "okane",
+      "Meaning": "money"
+    },
+    {
+      "Kanji": "起きる",
+      "Furigana": "おきる",
+      "Romaji": "okiru",
+      "Meaning": "to get up, to stand up"
+    },
+    {
+      "Kanji": "置く",
+      "Furigana": "おく",
+      "Romaji": "oku",
+      "Meaning": "to put, to place"
+    },
+    {
+      "Kanji": "奥さん",
+      "Furigana": "おくさん",
+      "Romaji": "okusan",
+      "Meaning": "someone’s wife"
+    },
+    {
+      "Kanji": "送る",
+      "Furigana": "おくる",
+      "Romaji": "okuru",
+      "Meaning": "to send"
+    },
+    {
+      "Kanji": "お酒",
+      "Furigana": "おさけ",
+      "Romaji": "osake",
+      "Meaning": "alcohol, sake"
+    },
+    {
+      "Kanji": "お皿",
+      "Furigana": "おさら",
+      "Romaji": "osara",
+      "Meaning": "plate"
+    },
+    {
+      "Kanji": "伯父さん",
+      "Furigana": "おじさん",
+      "Romaji": "ojisan",
+      "Meaning": "uncle"
+    },
+    {
+      "Kanji": "おじいさん",
+      "Furigana": "おじいさん",
+      "Romaji": "ojiisan",
+      "Meaning": "grand father"
+    },
+    {
+      "Kanji": "押す",
+      "Furigana": "おす",
+      "Romaji": "osu",
+      "Meaning": "to push"
+    },
+    {
+      "Kanji": "遅い",
+      "Furigana": "おそい",
+      "Romaji": "osoi",
+      "Meaning": "late, slow"
+    },
+    {
+      "Kanji": "お茶",
+      "Furigana": "おちゃ",
+      "Romaji": "ocha",
+      "Meaning": "tea"
+    },
+    {
+      "Kanji": "お手洗い",
+      "Furigana": "おてあらい",
+      "Romaji": "otearai",
+      "Meaning": "toilet, lavatory"
+    },
+    {
+      "Kanji": "お父さん",
+      "Furigana": "おとうさん",
+      "Romaji": "otousan",
+      "Meaning": "father"
+    },
+    {
+      "Kanji": "弟",
+      "Furigana": "おとうと",
+      "Romaji": "otouto",
+      "Meaning": "someone’s younger brother"
+    },
+    {
+      "Kanji": "男",
+      "Furigana": "おとこ",
+      "Romaji": "otoko",
+      "Meaning": "man"
+    },
+    {
+      "Kanji": "男の子",
+      "Furigana": "おとこのこ",
+      "Romaji": "otokonoko",
+      "Meaning": "boy"
+    },
+    {
+      "Kanji": "一昨日",
+      "Furigana": "おととい",
+      "Romaji": "ototoi",
+      "Meaning": "the day before yesterday"
+    },
+    {
+      "Kanji": "一昨年",
+      "Furigana": "おととし",
+      "Romaji": "ototoshi",
+      "Meaning": "the year before last"
+    },
+    {
+      "Kanji": "大人",
+      "Furigana": "おとな",
+      "Romaji": "otona",
+      "Meaning": "adult"
+    },
+    {
+      "Kanji": "お腹",
+      "Furigana": "おなか",
+      "Romaji": "onaka",
+      "Meaning": "stomach"
+    },
+    {
+      "Kanji": "同じ",
+      "Furigana": "おなじ",
+      "Romaji": "onaji",
+      "Meaning": "same"
+    },
+    {
+      "Kanji": "お兄さん",
+      "Furigana": "おにいさん",
+      "Romaji": "oniisan",
+      "Meaning": "someone’s elder brother"
+    },
+    {
+      "Kanji": "お姉さん",
+      "Furigana": "おねえさん",
+      "Romaji": "oneesan",
+      "Meaning": "someone’s elder sister"
+    },
+    {
+      "Kanji": "伯母さん",
+      "Furigana": "おばさん",
+      "Romaji": "obasan",
+      "Meaning": "aunt"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "おばあさん",
+      "Romaji": "obaasan",
+      "Meaning": "grandmother"
+    },
+    {
+      "Kanji": "お弁当",
+      "Furigana": "おべんとう",
+      "Romaji": "obentou",
+      "Meaning": "lunchbox"
+    },
+    {
+      "Kanji": "覚える",
+      "Furigana": "おぼえる",
+      "Romaji": "oboeru",
+      "Meaning": "to memorize, to remember"
+    },
+    {
+      "Kanji": "重い",
+      "Furigana": "おもい",
+      "Romaji": "omoi",
+      "Meaning": "heavy"
+    },
+    {
+      "Kanji": "面白い",
+      "Furigana": "おもしろい",
+      "Romaji": "omoshiroi",
+      "Meaning": "interesting, funny"
+    },
+    {
+      "Kanji": "泳ぐ",
+      "Furigana": "およぐ",
+      "Romaji": "oyogu",
+      "Meaning": "to swim"
+    },
+    {
+      "Kanji": "降りる",
+      "Furigana": "おりる",
+      "Romaji": "oriru",
+      "Meaning": "to get off"
+    },
+    {
+      "Kanji": "終わる",
+      "Furigana": "おわる",
+      "Romaji": "owaru",
+      "Meaning": "to end"
+    },
+    {
+      "Kanji": "音楽",
+      "Furigana": "おんがく",
+      "Romaji": "ongaku",
+      "Meaning": "music"
+    },
+    {
+      "Kanji": "女",
+      "Furigana": "おんな",
+      "Romaji": "onna",
+      "Meaning": "woman"
+    },
+    {
+      "Kanji": "女の子",
+      "Furigana": "おんなのこ",
+      "Romaji": "onnanoko",
+      "Meaning": "girl"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "〜回",
+      "Furigana": "〜かい",
+      "Romaji": "~kai",
+      "Meaning": "~times"
+    },
+    {
+      "Kanji": "〜階",
+      "Furigana": "〜かい",
+      "Romaji": "~kai",
+      "Meaning": "~floor"
+    },
+    {
+      "Kanji": "外国",
+      "Furigana": "がいこく",
+      "Romaji": "gaikoku",
+      "Meaning": "foreign country"
+    },
+    {
+      "Kanji": "外国人",
+      "Furigana": "がいこくじん",
+      "Romaji": "gaikokujin",
+      "Meaning": "foreigner"
+    },
+    {
+      "Kanji": "会社",
+      "Furigana": "かいしゃ",
+      "Romaji": "kaisha",
+      "Meaning": "company, enterprise"
+    },
+    {
+      "Kanji": "階段",
+      "Furigana": "かいだん",
+      "Romaji": "kaidan",
+      "Meaning": "stairs"
+    },
+    {
+      "Kanji": "買物",
+      "Furigana": "かいもの",
+      "Romaji": "kaimono",
+      "Meaning": "shopping"
+    },
+    {
+      "Kanji": "買う",
+      "Furigana": "かう",
+      "Romaji": "kau",
+      "Meaning": "to buy"
+    },
+    {
+      "Kanji": "返す",
+      "Furigana": "かえす",
+      "Romaji": "kaesu",
+      "Meaning": "to return an object"
+    },
+    {
+      "Kanji": "帰る",
+      "Furigana": "かえる",
+      "Romaji": "kaeru",
+      "Meaning": "to return home"
+    },
+    {
+      "Kanji": "顔",
+      "Furigana": "かお",
+      "Romaji": "kao",
+      "Meaning": "face"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "かかる",
+      "Romaji": "kakaru",
+      "Meaning": "to take time, money"
+    },
+    {
+      "Kanji": "鍵",
+      "Furigana": "かぎ",
+      "Romaji": "kagi",
+      "Meaning": "key"
+    },
+    {
+      "Kanji": "書く",
+      "Furigana": "かく",
+      "Romaji": "kaku",
+      "Meaning": "to write"
+    },
+    {
+      "Kanji": "学生",
+      "Furigana": "がくせい",
+      "Romaji": "gakusei",
+      "Meaning": "student"
+    },
+    {
+      "Kanji": "〜か月",
+      "Furigana": "〜かげつ",
+      "Romaji": "~kagetsu",
+      "Meaning": "~ number of months"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "かける",
+      "Romaji": "kakeru",
+      "Meaning": "to wear"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "かける",
+      "Romaji": "kakeru",
+      "Meaning": "to make a phone call"
+    },
+    {
+      "Kanji": "傘",
+      "Furigana": "かさ",
+      "Romaji": "kasa",
+      "Meaning": "umbrella"
+    },
+    {
+      "Kanji": "貸す",
+      "Furigana": "かす",
+      "Romaji": "kasu",
+      "Meaning": "to lend"
+    },
+    {
+      "Kanji": "風",
+      "Furigana": "かぜ",
+      "Romaji": "kaze",
+      "Meaning": "wind"
+    },
+    {
+      "Kanji": "風邪",
+      "Furigana": "かぜ",
+      "Romaji": "kaze",
+      "Meaning": "a cold"
+    },
+    {
+      "Kanji": "家族",
+      "Furigana": "かぞく",
+      "Romaji": "kazoku",
+      "Meaning": "family"
+    },
+    {
+      "Kanji": "方",
+      "Furigana": "かた",
+      "Romaji": "kata",
+      "Meaning": "person (polite)"
+    },
+    {
+      "Kanji": "片仮名",
+      "Furigana": "かたかな",
+      "Romaji": "katakana",
+      "Meaning": "Katakana"
+    },
+    {
+      "Kanji": "一月",
+      "Furigana": "いちがつ",
+      "Romaji": "ichigatsu",
+      "Meaning": "January"
+    },
+    {
+      "Kanji": "二月",
+      "Furigana": "にがつ",
+      "Romaji": "nigatsu",
+      "Meaning": "February"
+    },
+    {
+      "Kanji": "三月",
+      "Furigana": "さんがつ",
+      "Romaji": "sangatsu",
+      "Meaning": "March"
+    },
+    {
+      "Kanji": "四月",
+      "Furigana": "しがつ",
+      "Romaji": "shigatsu",
+      "Meaning": "April"
+    },
+    {
+      "Kanji": "五月",
+      "Furigana": "ごがつ",
+      "Romaji": "gogatsu",
+      "Meaning": "May"
+    },
+    {
+      "Kanji": "六月",
+      "Furigana": "ろくがつ",
+      "Romaji": "rokugatsu",
+      "Meaning": "June"
+    },
+    {
+      "Kanji": "七月",
+      "Furigana": "しちがつ",
+      "Romaji": "shichigatsu",
+      "Meaning": "July"
+    },
+    {
+      "Kanji": "八月",
+      "Furigana": "はちがつ",
+      "Romaji": "hachigatsu",
+      "Meaning": "August"
+    },
+    {
+      "Kanji": "九月",
+      "Furigana": "くがつ",
+      "Romaji": "kugatsu",
+      "Meaning": "September"
+    },
+    {
+      "Kanji": "十月",
+      "Furigana": "じゅうがつ",
+      "Romaji": "juugatsu",
+      "Meaning": "October"
+    },
+    {
+      "Kanji": "十一月",
+      "Furigana": "じゅういちがつ",
+      "Romaji": "juuichigatsu",
+      "Meaning": "November"
+    },
+    {
+      "Kanji": "十二月",
+      "Furigana": "じゅうにがつ",
+      "Romaji": "juunigatsu",
+      "Meaning": "December"
+    },
+    {
+      "Kanji": "学校",
+      "Furigana": "がっこう",
+      "Romaji": "gakkou",
+      "Meaning": "school"
+    },
+    {
+      "Kanji": "角",
+      "Furigana": "かど",
+      "Romaji": "kado",
+      "Meaning": "corner"
+    },
+    {
+      "Kanji": "家内",
+      "Furigana": "かない",
+      "Romaji": "kanai",
+      "Meaning": "my wife"
+    },
+    {
+      "Kanji": "鞄",
+      "Furigana": "かばん",
+      "Romaji": "kaban",
+      "Meaning": "bag"
+    },
+    {
+      "Kanji": "花瓶",
+      "Furigana": "かびん",
+      "Romaji": "kabin",
+      "Meaning": "vase"
+    },
+    {
+      "Kanji": "冠る",
+      "Furigana": "かぶる",
+      "Romaji": "kaburu",
+      "Meaning": "to put on a hat"
+    },
+    {
+      "Kanji": "紙",
+      "Furigana": "かみ",
+      "Romaji": "kami",
+      "Meaning": "paper"
+    },
+    {
+      "Kanji": "カメラ",
+      "Furigana": "かめら",
+      "Romaji": "kamera",
+      "Meaning": "camera"
+    },
+    {
+      "Kanji": "火曜日",
+      "Furigana": "かようび",
+      "Romaji": "kayoubi",
+      "Meaning": "Tuesday"
+    },
+    {
+      "Kanji": "辛い",
+      "Furigana": "からい",
+      "Romaji": "karai",
+      "Meaning": "hot, spicy"
+    },
+    {
+      "Kanji": "体",
+      "Furigana": "からだ",
+      "Romaji": "karada",
+      "Meaning": "body"
+    },
+    {
+      "Kanji": "借りる",
+      "Furigana": "かりる",
+      "Romaji": "kariru",
+      "Meaning": "to borrow"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "〜がります",
+      "Romaji": "~garimasu",
+      "Meaning": "3rd person wants to"
+    },
+    {
+      "Kanji": "軽い",
+      "Furigana": "かるい",
+      "Romaji": "karui",
+      "Meaning": "light (not heavy)"
+    },
+    {
+      "Kanji": "カレンダー",
+      "Furigana": "カレンダー",
+      "Romaji": "karendaa",
+      "Meaning": "calendar"
+    },
+    {
+      "Kanji": "川",
+      "Furigana": "かわ",
+      "Romaji": "kawa",
+      "Meaning": "river"
+    },
+    {
+      "Kanji": "〜側",
+      "Furigana": "~がわ",
+      "Romaji": "~gawa",
+      "Meaning": "~side"
+    },
+    {
+      "Kanji": "可愛い",
+      "Furigana": "かわいい",
+      "Romaji": "kawaii",
+      "Meaning": "cute, pretty"
+    },
+    {
+      "Kanji": "漢字",
+      "Furigana": "かんじ",
+      "Romaji": "kanji",
+      "Meaning": "Kanji character"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "木",
+      "Furigana": "き",
+      "Romaji": "ki",
+      "Meaning": "tree"
+    },
+    {
+      "Kanji": "黄色い",
+      "Furigana": "きいろい",
+      "Romaji": "kiiroi",
+      "Meaning": "yellow"
+    },
+    {
+      "Kanji": "消える",
+      "Furigana": "きえる",
+      "Romaji": "kieru",
+      "Meaning": "to go out, to vanish"
+    },
+    {
+      "Kanji": "聞く",
+      "Furigana": "きく",
+      "Romaji": "kiku",
+      "Meaning": "to hear, to listen, to ask"
+    },
+    {
+      "Kanji": "北",
+      "Furigana": "きた",
+      "Romaji": "kita",
+      "Meaning": "north"
+    },
+    {
+      "Kanji": "ギター",
+      "Furigana": "ギター",
+      "Romaji": "gitaa",
+      "Meaning": "guitar"
+    },
+    {
+      "Kanji": "汚い",
+      "Furigana": "きたない",
+      "Romaji": "kitanai",
+      "Meaning": "dirty"
+    },
+    {
+      "Kanji": "喫茶店",
+      "Furigana": "きっさてん",
+      "Romaji": "kissaten",
+      "Meaning": "coffee shop"
+    },
+    {
+      "Kanji": "切手",
+      "Furigana": "きって",
+      "Romaji": "kitte",
+      "Meaning": "stamp"
+    },
+    {
+      "Kanji": "切符",
+      "Furigana": "きっぷ",
+      "Romaji": "kippu",
+      "Meaning": "ticket"
+    },
+    {
+      "Kanji": "昨日",
+      "Furigana": "きのう",
+      "Romaji": "kinou",
+      "Meaning": "yesterday"
+    },
+    {
+      "Kanji": "九",
+      "Furigana": "きゅう",
+      "Romaji": "kyuu",
+      "Meaning": "nine"
+    },
+    {
+      "Kanji": "牛肉",
+      "Furigana": "ぎゅうにく",
+      "Romaji": "gyuuniku",
+      "Meaning": "beef"
+    },
+    {
+      "Kanji": "牛乳",
+      "Furigana": "ぎゅうにゅう",
+      "Romaji": "gyuunyuu",
+      "Meaning": "milk"
+    },
+    {
+      "Kanji": "今日",
+      "Furigana": "きょう",
+      "Romaji": "kyou",
+      "Meaning": "today"
+    },
+    {
+      "Kanji": "教室",
+      "Furigana": "きょうしつ",
+      "Romaji": "kyoushitsu",
+      "Meaning": "class room"
+    },
+    {
+      "Kanji": "兄弟",
+      "Furigana": "きょうだい",
+      "Romaji": "kyoudai",
+      "Meaning": "siblings"
+    },
+    {
+      "Kanji": "去年",
+      "Furigana": "きょねん",
+      "Romaji": "kyonen",
+      "Meaning": "last year"
+    },
+    {
+      "Kanji": "嫌い",
+      "Furigana": "きらい",
+      "Romaji": "kirai",
+      "Meaning": "unpleasant, not likable"
+    },
+    {
+      "Kanji": "切る",
+      "Furigana": "きる",
+      "Romaji": "kiru",
+      "Meaning": "to cut"
+    },
+    {
+      "Kanji": "着る",
+      "Furigana": "きる",
+      "Romaji": "kiru",
+      "Meaning": "to wear, to put on"
+    },
+    {
+      "Kanji": "来る",
+      "Furigana": "くる",
+      "Romaji": "kuru",
+      "Meaning": "to come"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "きれい",
+      "Romaji": "kirei",
+      "Meaning": "beautiful, clean"
+    },
+    {
+      "Kanji": "キロ",
+      "Furigana": "キロ",
+      "Romaji": "kiro",
+      "Meaning": "kg"
+    },
+    {
+      "Kanji": "キロ",
+      "Furigana": "キロ",
+      "Romaji": "kiro",
+      "Meaning": "km"
+    },
+    {
+      "Kanji": "銀行",
+      "Furigana": "ぎんこう",
+      "Romaji": "ginkou",
+      "Meaning": "bank"
+    },
+    {
+      "Kanji": "金曜日",
+      "Furigana": "きんようび",
+      "Romaji": "kinyoubi",
+      "Meaning": "Friday"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "九",
+      "Furigana": "く",
+      "Romaji": "ku",
+      "Meaning": "nine"
+    },
+    {
+      "Kanji": "薬",
+      "Furigana": "くすり",
+      "Romaji": "kusuri",
+      "Meaning": "medicine"
+    },
+    {
+      "Kanji": "下さい",
+      "Furigana": "ください",
+      "Romaji": "kudasai",
+      "Meaning": "give me…"
+    },
+    {
+      "Kanji": "果物",
+      "Furigana": "くだもの",
+      "Romaji": "kudamono",
+      "Meaning": "fruit"
+    },
+    {
+      "Kanji": "口",
+      "Furigana": "くち",
+      "Romaji": "kuchi",
+      "Meaning": "mouth"
+    },
+    {
+      "Kanji": "靴",
+      "Furigana": "くつ",
+      "Romaji": "kutsu",
+      "Meaning": "shoe"
+    },
+    {
+      "Kanji": "靴下",
+      "Furigana": "くつした",
+      "Romaji": "kutsushita",
+      "Meaning": "socks"
+    },
+    {
+      "Kanji": "国",
+      "Furigana": "くに",
+      "Romaji": "kuni",
+      "Meaning": "country"
+    },
+    {
+      "Kanji": "曇り",
+      "Furigana": "くもり",
+      "Romaji": "kumori",
+      "Meaning": "cloudy weather"
+    },
+    {
+      "Kanji": "暗い",
+      "Furigana": "くらい",
+      "Romaji": "kurai",
+      "Meaning": "dark"
+    },
+    {
+      "Kanji": "ぐらい",
+      "Furigana": "ぐらい",
+      "Romaji": "gurai",
+      "Meaning": "about"
+    },
+    {
+      "Kanji": "クラス",
+      "Furigana": "クラス",
+      "Romaji": "kurasu",
+      "Meaning": "class"
+    },
+    {
+      "Kanji": "グラム",
+      "Furigana": "グラム",
+      "Romaji": "guramu",
+      "Meaning": "gram"
+    },
+    {
+      "Kanji": "車",
+      "Furigana": "くるま",
+      "Romaji": "kuruma",
+      "Meaning": "car"
+    },
+    {
+      "Kanji": "黒い",
+      "Furigana": "くろい",
+      "Romaji": "kuroi",
+      "Meaning": "black"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "今朝",
+      "Furigana": "けさ",
+      "Romaji": "kesa",
+      "Meaning": "this morning"
+    },
+    {
+      "Kanji": "消す",
+      "Furigana": "けす",
+      "Romaji": "kesu",
+      "Meaning": "to turn off, switch off"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "けっこう",
+      "Romaji": "kekkou",
+      "Meaning": "fine, all right"
+    },
+    {
+      "Kanji": "結婚",
+      "Furigana": "けっこん",
+      "Romaji": "kekkon",
+      "Meaning": "marriage"
+    },
+    {
+      "Kanji": "月曜日",
+      "Furigana": "げつようび",
+      "Romaji": "getsuyoubi",
+      "Meaning": "Monday"
+    },
+    {
+      "Kanji": "玄関",
+      "Furigana": "げんかん",
+      "Romaji": "genkan",
+      "Meaning": "entrance of a house"
+    },
+    {
+      "Kanji": "元気",
+      "Furigana": "げんき",
+      "Romaji": "genki",
+      "Meaning": "vigor, health, vitality"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "〜個",
+      "Furigana": "〜こ",
+      "Romaji": "~ko",
+      "Meaning": "counter for small objects"
+    },
+    {
+      "Kanji": "五",
+      "Furigana": "ご",
+      "Romaji": "go",
+      "Meaning": "five"
+    },
+    {
+      "Kanji": "〜語",
+      "Furigana": "〜ご",
+      "Romaji": "~go",
+      "Meaning": "~ language"
+    },
+    {
+      "Kanji": "公園",
+      "Furigana": "こうえん",
+      "Romaji": "kouen",
+      "Meaning": "park, large garden"
+    },
+    {
+      "Kanji": "交番",
+      "Furigana": "こうばん",
+      "Romaji": "kouban",
+      "Meaning": "police box"
+    },
+    {
+      "Kanji": "声",
+      "Furigana": "こえ",
+      "Romaji": "koe",
+      "Meaning": "voice"
+    },
+    {
+      "Kanji": "コート",
+      "Furigana": "コート",
+      "Romaji": "kooto",
+      "Meaning": "coat"
+    },
+    {
+      "Kanji": "ここ",
+      "Furigana": "ここ",
+      "Romaji": "koko",
+      "Meaning": "here"
+    },
+    {
+      "Kanji": "午後",
+      "Furigana": "ごご",
+      "Romaji": "gogo",
+      "Meaning": "afternoon"
+    },
+    {
+      "Kanji": "九日",
+      "Furigana": "ここのか",
+      "Romaji": "kokonoka",
+      "Meaning": "9th day of a month, 9 days"
+    },
+    {
+      "Kanji": "九つ",
+      "Furigana": "ここのつ",
+      "Romaji": "kokonotsu",
+      "Meaning": "nine"
+    },
+    {
+      "Kanji": "ご主人",
+      "Furigana": "ごしゅじん",
+      "Romaji": "goshujin",
+      "Meaning": "someone else’s husband"
+    },
+    {
+      "Kanji": "午前",
+      "Furigana": "ごぜん",
+      "Romaji": "gozen",
+      "Meaning": "morning, a.m."
+    },
+    {
+      "Kanji": "答える",
+      "Furigana": "こたえる",
+      "Romaji": "kotaeru",
+      "Meaning": "to answer"
+    },
+    {
+      "Kanji": "こちら",
+      "Furigana": "こちら",
+      "Romaji": "kochira",
+      "Meaning": "this side, this place"
+    },
+    {
+      "Kanji": "コップ",
+      "Furigana": "コップ",
+      "Romaji": "koppu",
+      "Meaning": "cup, glass"
+    },
+    {
+      "Kanji": "今年",
+      "Furigana": "ことし",
+      "Romaji": "kotoshi",
+      "Meaning": "this year"
+    },
+    {
+      "Kanji": "言葉",
+      "Furigana": "ことば",
+      "Romaji": "kotoba",
+      "Meaning": "phrase, language"
+    },
+    {
+      "Kanji": "子供",
+      "Furigana": "こども",
+      "Romaji": "kodomo",
+      "Meaning": "child"
+    },
+    {
+      "Kanji": "この",
+      "Furigana": "この",
+      "Romaji": "kono",
+      "Meaning": "this…"
+    },
+    {
+      "Kanji": "御飯",
+      "Furigana": "ごはん",
+      "Romaji": "gohan",
+      "Meaning": "meal, cooked rice"
+    },
+    {
+      "Kanji": "困る",
+      "Furigana": "こまる",
+      "Romaji": "komaru",
+      "Meaning": "to be in trouble"
+    },
+    {
+      "Kanji": "これ",
+      "Furigana": "これ",
+      "Romaji": "kore",
+      "Meaning": "this"
+    },
+    {
+      "Kanji": "ごろ",
+      "Furigana": "ごろ",
+      "Romaji": "goro",
+      "Meaning": "around…"
+    },
+    {
+      "Kanji": "今月",
+      "Furigana": "こんげつ",
+      "Romaji": "kongetsu",
+      "Meaning": "this month"
+    },
+    {
+      "Kanji": "今週",
+      "Furigana": "こんしゅう",
+      "Romaji": "konshuu",
+      "Meaning": "this week"
+    },
+    {
+      "Kanji": "こんな",
+      "Furigana": "こんな",
+      "Romaji": "konna",
+      "Meaning": "this sort of, this kind of"
+    },
+    {
+      "Kanji": "今晩",
+      "Furigana": "こんばん",
+      "Romaji": "konban",
+      "Meaning": "this evening"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "さあ",
+      "Furigana": "さあ",
+      "Romaji": "saa",
+      "Meaning": "well…"
+    },
+    {
+      "Kanji": "〜歳",
+      "Furigana": "〜さい",
+      "Romaji": "~sai",
+      "Meaning": "years old"
+    },
+    {
+      "Kanji": "魚",
+      "Furigana": "さかな",
+      "Romaji": "sakana",
+      "Meaning": "fish"
+    },
+    {
+      "Kanji": "先",
+      "Furigana": "さき",
+      "Romaji": "saki",
+      "Meaning": "earlier, former"
+    },
+    {
+      "Kanji": "咲く",
+      "Furigana": "さく",
+      "Romaji": "saku",
+      "Meaning": "to blossom"
+    },
+    {
+      "Kanji": "作文",
+      "Furigana": "さくぶん",
+      "Romaji": "sakubun",
+      "Meaning": "composition"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "さす",
+      "Romaji": "sasu",
+      "Meaning": "to open an umbrella"
+    },
+    {
+      "Kanji": "冊",
+      "Furigana": "〜さつ",
+      "Romaji": "~satsu",
+      "Meaning": "counter for books"
+    },
+    {
+      "Kanji": "雑誌",
+      "Furigana": "ざっし",
+      "Romaji": "zasshi",
+      "Meaning": "magazine"
+    },
+    {
+      "Kanji": "砂糖",
+      "Furigana": "さとう",
+      "Romaji": "satou",
+      "Meaning": "sugar"
+    },
+    {
+      "Kanji": "寒い",
+      "Furigana": "さむい",
+      "Romaji": "samui",
+      "Meaning": "cold"
+    },
+    {
+      "Kanji": "再来年",
+      "Furigana": "さらいねん",
+      "Romaji": "sarainen",
+      "Meaning": "the year after next year"
+    },
+    {
+      "Kanji": "三",
+      "Furigana": "さん",
+      "Romaji": "san",
+      "Meaning": "three"
+    },
+    {
+      "Kanji": "〜さん",
+      "Furigana": "〜さん",
+      "Romaji": "~san",
+      "Meaning": "Mr., Mrs."
+    },
+    {
+      "Kanji": "散歩",
+      "Furigana": "さんぽ",
+      "Romaji": "sanpo",
+      "Meaning": "to take a walk"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "四",
+      "Furigana": "し",
+      "Romaji": "shi",
+      "Meaning": "four"
+    },
+    {
+      "Kanji": "〜時",
+      "Furigana": "〜じ",
+      "Romaji": "~ji",
+      "Meaning": "o’clock"
+    },
+    {
+      "Kanji": "塩",
+      "Furigana": "しお",
+      "Romaji": "shio",
+      "Meaning": "salt"
+    },
+    {
+      "Kanji": "しかし",
+      "Furigana": "しかし",
+      "Romaji": "shikashi",
+      "Meaning": "however, but"
+    },
+    {
+      "Kanji": "時間",
+      "Furigana": "じかん",
+      "Romaji": "jikan",
+      "Meaning": "time"
+    },
+    {
+      "Kanji": "〜時間",
+      "Furigana": "〜じかん",
+      "Romaji": "~jikan",
+      "Meaning": "~hours (classificator)"
+    },
+    {
+      "Kanji": "仕事",
+      "Furigana": "しごと",
+      "Romaji": "shigoto",
+      "Meaning": "work"
+    },
+    {
+      "Kanji": "辞書",
+      "Furigana": "じしょ",
+      "Romaji": "jisho",
+      "Meaning": "dictionary"
+    },
+    {
+      "Kanji": "静か",
+      "Furigana": "しずか",
+      "Romaji": "shizuka",
+      "Meaning": "quiet"
+    },
+    {
+      "Kanji": "下",
+      "Furigana": "した",
+      "Romaji": "shita",
+      "Meaning": "under, below"
+    },
+    {
+      "Kanji": "質問",
+      "Furigana": "しつもん",
+      "Romaji": "shitsumon",
+      "Meaning": "question"
+    },
+    {
+      "Kanji": "自転車",
+      "Furigana": "じてんしゃ",
+      "Romaji": "jitensha",
+      "Meaning": "bicycle"
+    },
+    {
+      "Kanji": "自動車",
+      "Furigana": "じどうしゃ",
+      "Romaji": "jidousha",
+      "Meaning": "car, vehicle"
+    },
+    {
+      "Kanji": "死ぬ",
+      "Furigana": "しぬ",
+      "Romaji": "shinu",
+      "Meaning": "to die, to pas away"
+    },
+    {
+      "Kanji": "字引",
+      "Furigana": "じびき",
+      "Romaji": "jibiki",
+      "Meaning": "dictionary"
+    },
+    {
+      "Kanji": "自分",
+      "Furigana": "じぶん",
+      "Romaji": "jibun",
+      "Meaning": "oneself"
+    },
+    {
+      "Kanji": "閉まる",
+      "Furigana": "しまる",
+      "Romaji": "shimaru",
+      "Meaning": "to close"
+    },
+    {
+      "Kanji": "閉める",
+      "Furigana": "しめる",
+      "Romaji": "shimeru",
+      "Meaning": "to close"
+    },
+    {
+      "Kanji": "締める",
+      "Furigana": "しめる",
+      "Romaji": "shimeru",
+      "Meaning": "to fasten a seatbelt"
+    },
+    {
+      "Kanji": "じゃ",
+      "Furigana": "じゃ",
+      "Romaji": "ja",
+      "Meaning": "well, then"
+    },
+    {
+      "Kanji": "写真",
+      "Furigana": "しゃしん",
+      "Romaji": "shashin",
+      "Meaning": "photo"
+    },
+    {
+      "Kanji": "シャツ",
+      "Furigana": "シャツ",
+      "Romaji": "shatsu",
+      "Meaning": "shirt"
+    },
+    {
+      "Kanji": "十",
+      "Furigana": "じゅう",
+      "Romaji": "juu",
+      "Meaning": "ten"
+    },
+    {
+      "Kanji": "~週間",
+      "Furigana": "〜しゅうかん",
+      "Romaji": "~shuukan",
+      "Meaning": "… weeks"
+    },
+    {
+      "Kanji": "授業",
+      "Furigana": "じゅぎょう",
+      "Romaji": "jugyou",
+      "Meaning": "lesson, class"
+    },
+    {
+      "Kanji": "宿題",
+      "Furigana": "しゅくだい",
+      "Romaji": "shukudai",
+      "Meaning": "homework"
+    },
+    {
+      "Kanji": "上手",
+      "Furigana": "じょうず",
+      "Romaji": "jouzu",
+      "Meaning": "to be good at something"
+    },
+    {
+      "Kanji": "丈夫",
+      "Furigana": "じょうぶ",
+      "Romaji": "joubu",
+      "Meaning": "to be strong, durable"
+    },
+    {
+      "Kanji": "醤油",
+      "Furigana": "しょうゆ",
+      "Romaji": "shouyu",
+      "Meaning": "soy sauce"
+    },
+    {
+      "Kanji": "食堂",
+      "Furigana": "しょくどう",
+      "Romaji": "shokudou",
+      "Meaning": "dining room, canteen"
+    },
+    {
+      "Kanji": "知る",
+      "Furigana": "しる",
+      "Romaji": "shiru",
+      "Meaning": "to know"
+    },
+    {
+      "Kanji": "白い",
+      "Furigana": "しろい",
+      "Romaji": "shiroi",
+      "Meaning": "white"
+    },
+    {
+      "Kanji": "〜人",
+      "Furigana": "〜じん",
+      "Romaji": "~jin",
+      "Meaning": "~an, ~ese (nationality)"
+    },
+    {
+      "Kanji": "新聞",
+      "Furigana": "しんぶん",
+      "Romaji": "shinbun",
+      "Meaning": "newspaper"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "",
+      "Romaji": "",
+      "Meaning": ""
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "水曜日",
+      "Furigana": "すいようび",
+      "Romaji": "suiyoubi",
+      "Meaning": "Wednesday"
+    },
+    {
+      "Kanji": "吸う",
+      "Furigana": "すう",
+      "Romaji": "suu",
+      "Meaning": "to breathe, to smoke"
+    },
+    {
+      "Kanji": "スカート",
+      "Furigana": "スカート",
+      "Romaji": "sukaato",
+      "Meaning": "skirt"
+    },
+    {
+      "Kanji": "好き",
+      "Furigana": "すき",
+      "Romaji": "suki",
+      "Meaning": "to like"
+    },
+    {
+      "Kanji": "〜過ぎ",
+      "Furigana": "〜すぎ",
+      "Romaji": "~sugi",
+      "Meaning": "past, over"
+    },
+    {
+      "Kanji": "すぐに",
+      "Furigana": "すぐに",
+      "Romaji": "sugu ni",
+      "Meaning": "at once"
+    },
+    {
+      "Kanji": "少し",
+      "Furigana": "すこし",
+      "Romaji": "sukoshi",
+      "Meaning": "a little"
+    },
+    {
+      "Kanji": "涼しい",
+      "Furigana": "すずしい",
+      "Romaji": "suzushii",
+      "Meaning": "cool"
+    },
+    {
+      "Kanji": "〜ずつ",
+      "Furigana": "〜ずつ",
+      "Romaji": "~zutsu",
+      "Meaning": "each"
+    },
+    {
+      "Kanji": "ストーブ",
+      "Furigana": "ストーブ",
+      "Romaji": "sutoobu",
+      "Meaning": "stove, heater"
+    },
+    {
+      "Kanji": "スプーン",
+      "Furigana": "スプーン",
+      "Romaji": "supuun",
+      "Meaning": "spoon"
+    },
+    {
+      "Kanji": "スポーツ",
+      "Furigana": "スポーツ",
+      "Romaji": "supootsu",
+      "Meaning": "sports"
+    },
+    {
+      "Kanji": "ズボン",
+      "Furigana": "ズボン",
+      "Romaji": "zubon",
+      "Meaning": "trousers"
+    },
+    {
+      "Kanji": "住む",
+      "Furigana": "すむ",
+      "Romaji": "sumu",
+      "Meaning": "to live, to reside somewhere"
+    },
+    {
+      "Kanji": "スリッパ",
+      "Furigana": "スリッパ",
+      "Romaji": "surippa",
+      "Meaning": "slipper"
+    },
+    {
+      "Kanji": "する",
+      "Furigana": "する",
+      "Romaji": "suru",
+      "Meaning": "to do"
+    },
+    {
+      "Kanji": "座る",
+      "Furigana": "すわる",
+      "Romaji": "suwaru",
+      "Meaning": "to sit"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "背",
+      "Furigana": "せい",
+      "Romaji": "sei",
+      "Meaning": "height"
+    },
+    {
+      "Kanji": "生徒",
+      "Furigana": "せいと",
+      "Romaji": "seito",
+      "Meaning": "student"
+    },
+    {
+      "Kanji": "セーター",
+      "Furigana": "セーター",
+      "Romaji": "seetaa",
+      "Meaning": "sweater"
+    },
+    {
+      "Kanji": "石鹸",
+      "Furigana": "せっけん",
+      "Romaji": "sekken",
+      "Meaning": "soap"
+    },
+    {
+      "Kanji": "背広",
+      "Furigana": "せびろ",
+      "Romaji": "sebiro",
+      "Meaning": "jacket, suit"
+    },
+    {
+      "Kanji": "狭い",
+      "Furigana": "せまい",
+      "Romaji": "semai",
+      "Meaning": "narrow"
+    },
+    {
+      "Kanji": "ゼロ",
+      "Furigana": "ゼロ",
+      "Romaji": "zero",
+      "Meaning": "zero"
+    },
+    {
+      "Kanji": "千",
+      "Furigana": "せん",
+      "Romaji": "sen",
+      "Meaning": "1,000, thousand"
+    },
+    {
+      "Kanji": "先月",
+      "Furigana": "せんげつ",
+      "Romaji": "sengetsu",
+      "Meaning": "last month"
+    },
+    {
+      "Kanji": "先週",
+      "Furigana": "せんしゅう",
+      "Romaji": "senshuu",
+      "Meaning": "last week"
+    },
+    {
+      "Kanji": "先生",
+      "Furigana": "せんせい",
+      "Romaji": "sensei",
+      "Meaning": "teacher"
+    },
+    {
+      "Kanji": "洗濯",
+      "Furigana": "せんたく",
+      "Romaji": "sentaku",
+      "Meaning": "washing, to wash"
+    },
+    {
+      "Kanji": "全部",
+      "Furigana": "ぜんぶ",
+      "Romaji": "zenbu",
+      "Meaning": "all"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "そう",
+      "Furigana": "そう",
+      "Romaji": "sou",
+      "Meaning": "so"
+    },
+    {
+      "Kanji": "掃除",
+      "Furigana": "そうじ",
+      "Romaji": "souji",
+      "Meaning": "to clean"
+    },
+    {
+      "Kanji": "そうして",
+      "Furigana": "そうして",
+      "Romaji": "soushite",
+      "Meaning": "and then"
+    },
+    {
+      "Kanji": "そこ",
+      "Furigana": "そこ",
+      "Romaji": "soko",
+      "Meaning": "there"
+    },
+    {
+      "Kanji": "そちら",
+      "Furigana": "そちら",
+      "Romaji": "sochira",
+      "Meaning": "there (polite)"
+    },
+    {
+      "Kanji": "外",
+      "Furigana": "そと",
+      "Romaji": "soto",
+      "Meaning": "outside"
+    },
+    {
+      "Kanji": "その",
+      "Furigana": "その",
+      "Romaji": "sono",
+      "Meaning": "that…"
+    },
+    {
+      "Kanji": "そば",
+      "Furigana": "そば",
+      "Romaji": "soba",
+      "Meaning": "next to"
+    },
+    {
+      "Kanji": "空",
+      "Furigana": "そら",
+      "Romaji": "sora",
+      "Meaning": "sky"
+    },
+    {
+      "Kanji": "それ",
+      "Furigana": "それ",
+      "Romaji": "sore",
+      "Meaning": "that"
+    },
+    {
+      "Kanji": "それから",
+      "Furigana": "それから",
+      "Romaji": "sorekara",
+      "Meaning": "after that"
+    },
+    {
+      "Kanji": "それでは",
+      "Furigana": "それでは",
+      "Romaji": "soredewa",
+      "Meaning": "then, well"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "〜台",
+      "Furigana": "〜だい",
+      "Romaji": "~dai",
+      "Meaning": "counter for machines"
+    },
+    {
+      "Kanji": "大学",
+      "Furigana": "だいがく",
+      "Romaji": "daigaku",
+      "Meaning": "university"
+    },
+    {
+      "Kanji": "大使館",
+      "Furigana": "たいしかん",
+      "Romaji": "taishikan",
+      "Meaning": "embassy"
+    },
+    {
+      "Kanji": "大丈夫",
+      "Furigana": "だいじょうぶ",
+      "Romaji": "daijoubu",
+      "Meaning": "OK"
+    },
+    {
+      "Kanji": "大好き",
+      "Furigana": "だいすき",
+      "Romaji": "daisuki",
+      "Meaning": "to be very fond of"
+    },
+    {
+      "Kanji": "大切",
+      "Furigana": "たいせつ",
+      "Romaji": "taisetsu",
+      "Meaning": "very important"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "たいてい",
+      "Romaji": "taitei",
+      "Meaning": "mostly, usually"
+    },
+    {
+      "Kanji": "台所",
+      "Furigana": "だいどころ",
+      "Romaji": "daidokoro",
+      "Meaning": "kitchen"
+    },
+    {
+      "Kanji": "大変",
+      "Furigana": "たいへん",
+      "Romaji": "taihen",
+      "Meaning": "very, serious"
+    },
+    {
+      "Kanji": "高い",
+      "Furigana": "たかい",
+      "Romaji": "takai",
+      "Meaning": "high, expensive"
+    },
+    {
+      "Kanji": "沢山",
+      "Furigana": "たくさん",
+      "Romaji": "takusan",
+      "Meaning": "many, much"
+    },
+    {
+      "Kanji": "タクシー",
+      "Furigana": "タクシー",
+      "Romaji": "takushii",
+      "Meaning": "taxi"
+    },
+    {
+      "Kanji": "出す",
+      "Furigana": "だす",
+      "Romaji": "dasu",
+      "Meaning": "to take out, hand in"
+    },
+    {
+      "Kanji": "~達",
+      "Furigana": "〜たち",
+      "Romaji": "~tachi",
+      "Meaning": "more than one, and others"
+    },
+    {
+      "Kanji": "立つ",
+      "Furigana": "たつ",
+      "Romaji": "tatsu",
+      "Meaning": "to stand"
+    },
+    {
+      "Kanji": "建物",
+      "Furigana": "たてもの",
+      "Romaji": "tatemono",
+      "Meaning": "building"
+    },
+    {
+      "Kanji": "楽しい",
+      "Furigana": "たのしい",
+      "Romaji": "tanoshii",
+      "Meaning": "pleasant, enjoyable"
+    },
+    {
+      "Kanji": "頼む",
+      "Furigana": "たのむ",
+      "Romaji": "tanomu",
+      "Meaning": "to ask, to request"
+    },
+    {
+      "Kanji": "たばこ",
+      "Furigana": "たばこ",
+      "Romaji": "tabako",
+      "Meaning": "cigarette"
+    },
+    {
+      "Kanji": "多分",
+      "Furigana": "たぶん",
+      "Romaji": "tabun",
+      "Meaning": "perhaps, probably"
+    },
+    {
+      "Kanji": "食べ物",
+      "Furigana": "たべもの",
+      "Romaji": "tabemono",
+      "Meaning": "food"
+    },
+    {
+      "Kanji": "食べる",
+      "Furigana": "たべる",
+      "Romaji": "taberu",
+      "Meaning": "to eat"
+    },
+    {
+      "Kanji": "卵",
+      "Furigana": "たまご",
+      "Romaji": "tamago",
+      "Meaning": "egg"
+    },
+    {
+      "Kanji": "誰",
+      "Furigana": "だれ",
+      "Romaji": "dare",
+      "Meaning": "who?"
+    },
+    {
+      "Kanji": "誕生日",
+      "Furigana": "たんじょうび",
+      "Romaji": "tanjoubi",
+      "Meaning": "birthday"
+    },
+    {
+      "Kanji": "だんだん",
+      "Furigana": "だんだん",
+      "Romaji": "dandan",
+      "Meaning": "gradually"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "小さい",
+      "Furigana": "ちいさい",
+      "Romaji": "chiisai",
+      "Meaning": "small"
+    },
+    {
+      "Kanji": "近い",
+      "Furigana": "ちかい",
+      "Romaji": "chikai",
+      "Meaning": "near, close"
+    },
+    {
+      "Kanji": "違う",
+      "Furigana": "ちがう",
+      "Romaji": "chigau",
+      "Meaning": "different"
+    },
+    {
+      "Kanji": "地下鉄",
+      "Furigana": "ちかてつ",
+      "Romaji": "chikatetsu",
+      "Meaning": "subway"
+    },
+    {
+      "Kanji": "地図",
+      "Furigana": "ちず",
+      "Romaji": "chizu",
+      "Meaning": "map"
+    },
+    {
+      "Kanji": "父",
+      "Furigana": "ちち",
+      "Romaji": "chichi",
+      "Meaning": "my father"
+    },
+    {
+      "Kanji": "茶色",
+      "Furigana": "ちゃいろ",
+      "Romaji": "chairo",
+      "Meaning": "brown"
+    },
+    {
+      "Kanji": "茶碗",
+      "Furigana": "ちゃわん",
+      "Romaji": "chawan",
+      "Meaning": "rice bowl"
+    },
+    {
+      "Kanji": "〜中",
+      "Furigana": "〜ちゅう",
+      "Romaji": "~chuu",
+      "Meaning": "in the middle of"
+    },
+    {
+      "Kanji": "ちょうど",
+      "Furigana": "ちょうど",
+      "Romaji": "choudo",
+      "Meaning": "just"
+    },
+    {
+      "Kanji": "ちょっと",
+      "Furigana": "ちょっと",
+      "Romaji": "chotto",
+      "Meaning": "a little"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "一日",
+      "Furigana": "ついたち",
+      "Romaji": "tsuitachi",
+      "Meaning": "the 1st day of a month"
+    },
+    {
+      "Kanji": "使う",
+      "Furigana": "つかう",
+      "Romaji": "tsukau",
+      "Meaning": "to use"
+    },
+    {
+      "Kanji": "疲れる",
+      "Furigana": "つかれる",
+      "Romaji": "tsukareru",
+      "Meaning": "to get tired"
+    },
+    {
+      "Kanji": "次",
+      "Furigana": "つぎ",
+      "Romaji": "tsugi",
+      "Meaning": "next"
+    },
+    {
+      "Kanji": "着く",
+      "Furigana": "つく",
+      "Romaji": "tsuku",
+      "Meaning": "to arrive"
+    },
+    {
+      "Kanji": "机",
+      "Furigana": "つくえ",
+      "Romaji": "tsukue",
+      "Meaning": "table"
+    },
+    {
+      "Kanji": "作る",
+      "Furigana": "つくる",
+      "Romaji": "tsukuru",
+      "Meaning": "to make, to produce"
+    },
+    {
+      "Kanji": "点ける",
+      "Furigana": "つける",
+      "Romaji": "tsukeru",
+      "Meaning": "to turn on"
+    },
+    {
+      "Kanji": "勤める",
+      "Furigana": "つとめる",
+      "Romaji": "tsutomeru",
+      "Meaning": "to work for someone"
+    },
+    {
+      "Kanji": "詰らない",
+      "Furigana": "つまらない",
+      "Romaji": "tsumaranai",
+      "Meaning": "uninteresting"
+    },
+    {
+      "Kanji": "冷たい",
+      "Furigana": "つめたい",
+      "Romaji": "tsumetai",
+      "Meaning": "cold"
+    },
+    {
+      "Kanji": "強い",
+      "Furigana": "つよい",
+      "Romaji": "tsuyoi",
+      "Meaning": "strong"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "手",
+      "Furigana": "て",
+      "Romaji": "te",
+      "Meaning": "hand"
+    },
+    {
+      "Kanji": "テープ",
+      "Furigana": "テープ",
+      "Romaji": "teepu",
+      "Meaning": "tape"
+    },
+    {
+      "Kanji": "テープレコーダー",
+      "Furigana": "テープレコーダー",
+      "Romaji": "teepu rekoodaa",
+      "Meaning": "tape recorder"
+    },
+    {
+      "Kanji": "テーブル",
+      "Furigana": "テーブル",
+      "Romaji": "teeburu",
+      "Meaning": "table"
+    },
+    {
+      "Kanji": "出かける",
+      "Furigana": "でかける",
+      "Romaji": "dekakeru",
+      "Meaning": "to go out"
+    },
+    {
+      "Kanji": "手紙",
+      "Furigana": "てがみ",
+      "Romaji": "tegami",
+      "Meaning": "letter"
+    },
+    {
+      "Kanji": "出来る",
+      "Furigana": "できる",
+      "Romaji": "dekiru",
+      "Meaning": "can"
+    },
+    {
+      "Kanji": "出口",
+      "Furigana": "でぐち",
+      "Romaji": "deguchi",
+      "Meaning": "exit"
+    },
+    {
+      "Kanji": "テスト",
+      "Furigana": "テスト",
+      "Romaji": "tesuto",
+      "Meaning": "test"
+    },
+    {
+      "Kanji": "では",
+      "Furigana": "では",
+      "Romaji": "dewa",
+      "Meaning": "then, well"
+    },
+    {
+      "Kanji": "デパート",
+      "Furigana": "デパート",
+      "Romaji": "depaato",
+      "Meaning": "department store"
+    },
+    {
+      "Kanji": "でも",
+      "Furigana": "でも",
+      "Romaji": "demo",
+      "Meaning": "but"
+    },
+    {
+      "Kanji": "出ます",
+      "Furigana": "でます",
+      "Romaji": "demasu",
+      "Meaning": "to leave"
+    },
+    {
+      "Kanji": "テレビ",
+      "Furigana": "テレビ",
+      "Romaji": "terebi",
+      "Meaning": "TV"
+    },
+    {
+      "Kanji": "天気",
+      "Furigana": "てんき",
+      "Romaji": "tenki",
+      "Meaning": "weather"
+    },
+    {
+      "Kanji": "電気",
+      "Furigana": "でんき",
+      "Romaji": "denki",
+      "Meaning": "electricity"
+    },
+    {
+      "Kanji": "電車",
+      "Furigana": "でんしゃ",
+      "Romaji": "densha",
+      "Meaning": "train"
+    },
+    {
+      "Kanji": "電話",
+      "Furigana": "でんわ",
+      "Romaji": "denwa",
+      "Meaning": "phone"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "戸",
+      "Furigana": "と",
+      "Romaji": "to",
+      "Meaning": "door"
+    },
+    {
+      "Kanji": "〜度",
+      "Furigana": "〜ど",
+      "Romaji": "~do",
+      "Meaning": "~times, ~degree"
+    },
+    {
+      "Kanji": "ドア",
+      "Furigana": "ドア",
+      "Romaji": "doa",
+      "Meaning": "door"
+    },
+    {
+      "Kanji": "トイレ",
+      "Furigana": "トイレ",
+      "Romaji": "toire",
+      "Meaning": "toilet, lavatory"
+    },
+    {
+      "Kanji": "どう",
+      "Furigana": "どう",
+      "Romaji": "dou",
+      "Meaning": "how?"
+    },
+    {
+      "Kanji": "どうして",
+      "Furigana": "どうして",
+      "Romaji": "doushite",
+      "Meaning": "why?"
+    },
+    {
+      "Kanji": "どうぞ",
+      "Furigana": "どうぞ",
+      "Romaji": "douzo",
+      "Meaning": "please, here you are"
+    },
+    {
+      "Kanji": "動物",
+      "Furigana": "どうぶつ",
+      "Romaji": "doubutsu",
+      "Meaning": "animal"
+    },
+    {
+      "Kanji": "どうも",
+      "Furigana": "どうも",
+      "Romaji": "doumo",
+      "Meaning": "thanks"
+    },
+    {
+      "Kanji": "十",
+      "Furigana": "とお",
+      "Romaji": "too",
+      "Meaning": "ten"
+    },
+    {
+      "Kanji": "遠い",
+      "Furigana": "とおい",
+      "Romaji": "tooi",
+      "Meaning": "far"
+    },
+    {
+      "Kanji": "十日",
+      "Furigana": "とおか",
+      "Romaji": "tooka",
+      "Meaning": "the 10th day of a month, 10 days"
+    },
+    {
+      "Kanji": "時々",
+      "Furigana": "ときどき",
+      "Romaji": "tokidoki",
+      "Meaning": "sometimes"
+    },
+    {
+      "Kanji": "時計",
+      "Furigana": "とけい",
+      "Romaji": "tokei",
+      "Meaning": "watch, clock"
+    },
+    {
+      "Kanji": "どこ",
+      "Furigana": "どこ",
+      "Romaji": "doko",
+      "Meaning": "where?"
+    },
+    {
+      "Kanji": "所",
+      "Furigana": "ところ",
+      "Romaji": "tokoro",
+      "Meaning": "place"
+    },
+    {
+      "Kanji": "図書館",
+      "Furigana": "としょかん",
+      "Romaji": "toshokan",
+      "Meaning": "library"
+    },
+    {
+      "Kanji": "どちら",
+      "Furigana": "どちら",
+      "Romaji": "dochira",
+      "Meaning": "which, where (polite)"
+    },
+    {
+      "Kanji": "とても",
+      "Furigana": "とても",
+      "Romaji": "totemo",
+      "Meaning": "very much, quiet"
+    },
+    {
+      "Kanji": "どなた",
+      "Furigana": "どなた",
+      "Romaji": "donata",
+      "Meaning": "who (polite)"
+    },
+    {
+      "Kanji": "隣り",
+      "Furigana": "となり",
+      "Romaji": "tonari",
+      "Meaning": "next to"
+    },
+    {
+      "Kanji": "どの",
+      "Furigana": "どの",
+      "Romaji": "dono",
+      "Meaning": "which?"
+    },
+    {
+      "Kanji": "飛ぶ",
+      "Furigana": "とぶ",
+      "Romaji": "tobu",
+      "Meaning": "to fly"
+    },
+    {
+      "Kanji": "止まる",
+      "Furigana": "とまる",
+      "Romaji": "tomaru",
+      "Meaning": "to stop"
+    },
+    {
+      "Kanji": "友達",
+      "Furigana": "ともだち",
+      "Romaji": "tomodachi",
+      "Meaning": "friend"
+    },
+    {
+      "Kanji": "土曜日",
+      "Furigana": "どようび",
+      "Romaji": "doyoubi",
+      "Meaning": "Saturday"
+    },
+    {
+      "Kanji": "鳥",
+      "Furigana": "とり",
+      "Romaji": "tori",
+      "Meaning": "bird"
+    },
+    {
+      "Kanji": "鶏肉",
+      "Furigana": "とりにく",
+      "Romaji": "toriniku",
+      "Meaning": "chicken meat"
+    },
+    {
+      "Kanji": "取る",
+      "Furigana": "とる",
+      "Romaji": "toru",
+      "Meaning": "to take"
+    },
+    {
+      "Kanji": "撮る",
+      "Furigana": "とる",
+      "Romaji": "toru",
+      "Meaning": "to take a photo"
+    },
+    {
+      "Kanji": "どれ",
+      "Furigana": "どれ",
+      "Romaji": "dore",
+      "Meaning": "which?"
+    },
+    {
+      "Kanji": "どんな",
+      "Furigana": "どんな",
+      "Romaji": "donna",
+      "Meaning": "what kind of?"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "ナイフ",
+      "Furigana": "ナイフ",
+      "Romaji": "naifu",
+      "Meaning": "knife"
+    },
+    {
+      "Kanji": "中",
+      "Furigana": "なか",
+      "Romaji": "naka",
+      "Meaning": "inside"
+    },
+    {
+      "Kanji": "長い",
+      "Furigana": "ながい",
+      "Romaji": "nagai",
+      "Meaning": "long"
+    },
+    {
+      "Kanji": "鳴く",
+      "Furigana": "なく",
+      "Romaji": "naku",
+      "Meaning": "to sing, mew, moo"
+    },
+    {
+      "Kanji": "夏",
+      "Furigana": "なつ",
+      "Romaji": "natsu",
+      "Meaning": "summer"
+    },
+    {
+      "Kanji": "夏休み",
+      "Furigana": "なつやすみ",
+      "Romaji": "natsuyasumi",
+      "Meaning": "summer vacation"
+    },
+    {
+      "Kanji": "〜など",
+      "Furigana": "〜など",
+      "Romaji": "~nado",
+      "Meaning": "and so on"
+    },
+    {
+      "Kanji": "七つ",
+      "Furigana": "ななつ",
+      "Romaji": "nanatsu",
+      "Meaning": "seven"
+    },
+    {
+      "Kanji": "何",
+      "Furigana": "なに",
+      "Romaji": "nani",
+      "Meaning": "what?"
+    },
+    {
+      "Kanji": "七日",
+      "Furigana": "なのか",
+      "Romaji": "nanoka",
+      "Meaning": "the 7th of a month, 7 days"
+    },
+    {
+      "Kanji": "名前",
+      "Furigana": "なまえ",
+      "Romaji": "namae",
+      "Meaning": "name"
+    },
+    {
+      "Kanji": "習う",
+      "Furigana": "ならう",
+      "Romaji": "narau",
+      "Meaning": "to learn"
+    },
+    {
+      "Kanji": "並ぶ",
+      "Furigana": "ならぶ",
+      "Romaji": "narabu",
+      "Meaning": "to form a line"
+    },
+    {
+      "Kanji": "並べる",
+      "Furigana": "ならべる",
+      "Romaji": "naraberu",
+      "Meaning": "to line up"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "なる",
+      "Romaji": "naru",
+      "Meaning": "to become"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "二",
+      "Furigana": "に",
+      "Romaji": "ni",
+      "Meaning": "two"
+    },
+    {
+      "Kanji": "賑やか",
+      "Furigana": "にぎやか",
+      "Romaji": "nigiyaka",
+      "Meaning": "lively"
+    },
+    {
+      "Kanji": "お肉",
+      "Furigana": "おにく",
+      "Romaji": "oniku",
+      "Meaning": "meat"
+    },
+    {
+      "Kanji": "西",
+      "Furigana": "にし",
+      "Romaji": "nishi",
+      "Meaning": "west"
+    },
+    {
+      "Kanji": "〜日",
+      "Furigana": "〜にち",
+      "Romaji": "~nichi",
+      "Meaning": "…st, ..nd, ..th"
+    },
+    {
+      "Kanji": "日曜日",
+      "Furigana": "にちようび",
+      "Romaji": "nichiyoubi",
+      "Meaning": "Sunday"
+    },
+    {
+      "Kanji": "荷物",
+      "Furigana": "にもつ",
+      "Romaji": "nimotsu",
+      "Meaning": "luggage"
+    },
+    {
+      "Kanji": "ニュース",
+      "Furigana": "ニュース",
+      "Romaji": "nyuusu",
+      "Meaning": "news"
+    },
+    {
+      "Kanji": "庭",
+      "Furigana": "にわ",
+      "Romaji": "niwa",
+      "Meaning": "garden"
+    },
+    {
+      "Kanji": "〜人",
+      "Furigana": "~にん",
+      "Romaji": "~nin",
+      "Meaning": "… people"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "脱ぐ",
+      "Furigana": "ぬぐ",
+      "Romaji": "nugu",
+      "Meaning": "to take off clothes"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "ネクタイ",
+      "Furigana": "ネクタイ",
+      "Romaji": "nekutai",
+      "Meaning": "necktie"
+    },
+    {
+      "Kanji": "寝る",
+      "Furigana": "ねる",
+      "Romaji": "neru",
+      "Meaning": "to go to bed"
+    },
+    {
+      "Kanji": "〜年",
+      "Furigana": "〜ねん",
+      "Romaji": "~nen",
+      "Meaning": "~years"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "ノート",
+      "Furigana": "ノート",
+      "Romaji": "nooto",
+      "Meaning": "notebook"
+    },
+    {
+      "Kanji": "登る",
+      "Furigana": "のぼる",
+      "Romaji": "noboru",
+      "Meaning": "to climb up"
+    },
+    {
+      "Kanji": "飲物",
+      "Furigana": "のみもの",
+      "Romaji": "nomimono",
+      "Meaning": "drinks"
+    },
+    {
+      "Kanji": "飲む",
+      "Furigana": "のむ",
+      "Romaji": "nomu",
+      "Meaning": "to drink"
+    },
+    {
+      "Kanji": "乗る",
+      "Furigana": "のる",
+      "Romaji": "noru",
+      "Meaning": "to take, to ride"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "歯",
+      "Furigana": "は",
+      "Romaji": "ha",
+      "Meaning": "teeth"
+    },
+    {
+      "Kanji": "パーテイー",
+      "Furigana": "パーテイー",
+      "Romaji": "paateii",
+      "Meaning": "party"
+    },
+    {
+      "Kanji": "はい",
+      "Furigana": "はい",
+      "Romaji": "hai",
+      "Meaning": "yes"
+    },
+    {
+      "Kanji": "〜はい",
+      "Furigana": "〜はい",
+      "Romaji": "~hai",
+      "Meaning": "cups of ~"
+    },
+    {
+      "Kanji": "灰皿",
+      "Furigana": "はいざら",
+      "Romaji": "haizara",
+      "Meaning": "ashtray"
+    },
+    {
+      "Kanji": "入る",
+      "Furigana": "はいる",
+      "Romaji": "hairu",
+      "Meaning": "to enter"
+    },
+    {
+      "Kanji": "葉書",
+      "Furigana": "はがき",
+      "Romaji": "hagaki",
+      "Meaning": "postcard"
+    },
+    {
+      "Kanji": "履く",
+      "Furigana": "はく",
+      "Romaji": "haku",
+      "Meaning": "to put on shoes"
+    },
+    {
+      "Kanji": "箱",
+      "Furigana": "はこ",
+      "Romaji": "hako",
+      "Meaning": "box"
+    },
+    {
+      "Kanji": "橋",
+      "Furigana": "はし",
+      "Romaji": "hashi",
+      "Meaning": "bridge"
+    },
+    {
+      "Kanji": "箸",
+      "Furigana": "はし",
+      "Romaji": "hashi",
+      "Meaning": "chopsticks"
+    },
+    {
+      "Kanji": "始まる",
+      "Furigana": "はじまる",
+      "Romaji": "hajimaru",
+      "Meaning": "to begin, to start"
+    },
+    {
+      "Kanji": "始め",
+      "Furigana": "はじめ",
+      "Romaji": "hajime",
+      "Meaning": "start, the beginning"
+    },
+    {
+      "Kanji": "初めて",
+      "Furigana": "はじめて",
+      "Romaji": "hajimete",
+      "Meaning": "for the first time"
+    },
+    {
+      "Kanji": "走る",
+      "Furigana": "はしる",
+      "Romaji": "hashiru",
+      "Meaning": "to run"
+    },
+    {
+      "Kanji": "バス",
+      "Furigana": "バス",
+      "Romaji": "basu",
+      "Meaning": "bus"
+    },
+    {
+      "Kanji": "バター",
+      "Furigana": "バター",
+      "Romaji": "bataa",
+      "Meaning": "butter"
+    },
+    {
+      "Kanji": "二十歳",
+      "Furigana": "はたち",
+      "Romaji": "hatachi",
+      "Meaning": "20 years old"
+    },
+    {
+      "Kanji": "働く",
+      "Furigana": "はたらく",
+      "Romaji": "hataraku",
+      "Meaning": "to work"
+    },
+    {
+      "Kanji": "八",
+      "Furigana": "はち",
+      "Romaji": "hachi",
+      "Meaning": "eight"
+    },
+    {
+      "Kanji": "二十日",
+      "Furigana": "はつか",
+      "Romaji": "hatsuka",
+      "Meaning": "the 20th of the month, 20 days"
+    },
+    {
+      "Kanji": "花",
+      "Furigana": "はな",
+      "Romaji": "hana",
+      "Meaning": "flower"
+    },
+    {
+      "Kanji": "鼻",
+      "Furigana": "はな",
+      "Romaji": "hana",
+      "Meaning": "nose"
+    },
+    {
+      "Kanji": "話",
+      "Furigana": "はなし",
+      "Romaji": "hanashi",
+      "Meaning": "conversation, tale"
+    },
+    {
+      "Kanji": "話す",
+      "Furigana": "はなす",
+      "Romaji": "hanasu",
+      "Meaning": "to talk, to speak, to tell"
+    },
+    {
+      "Kanji": "母",
+      "Furigana": "はは",
+      "Romaji": "haha",
+      "Meaning": "my mother"
+    },
+    {
+      "Kanji": "早い",
+      "Furigana": "はやい",
+      "Romaji": "hayai",
+      "Meaning": "early"
+    },
+    {
+      "Kanji": "速い",
+      "Furigana": "はやい",
+      "Romaji": "hayai",
+      "Meaning": "fast, quick"
+    },
+    {
+      "Kanji": "春",
+      "Furigana": "はる",
+      "Romaji": "haru",
+      "Meaning": "spring"
+    },
+    {
+      "Kanji": "張る",
+      "Furigana": "はる",
+      "Romaji": "haru",
+      "Meaning": "to put something on, to stick"
+    },
+    {
+      "Kanji": "晴れる",
+      "Furigana": "はれる",
+      "Romaji": "hareru",
+      "Meaning": "to clear up"
+    },
+    {
+      "Kanji": "〜半",
+      "Furigana": "〜はん",
+      "Romaji": "~han",
+      "Meaning": "Half~"
+    },
+    {
+      "Kanji": "晩",
+      "Furigana": "ばん",
+      "Romaji": "ban",
+      "Meaning": "evening"
+    },
+    {
+      "Kanji": "~番",
+      "Furigana": "〜ばん",
+      "Romaji": "~ban",
+      "Meaning": "No.~, ranking"
+    },
+    {
+      "Kanji": "パン",
+      "Furigana": "パン",
+      "Romaji": "pan",
+      "Meaning": "bread"
+    },
+    {
+      "Kanji": "ハンカチ",
+      "Furigana": "ハンカチ",
+      "Romaji": "hankachi",
+      "Meaning": "handkerchief"
+    },
+    {
+      "Kanji": "番号",
+      "Furigana": "ばんごう",
+      "Romaji": "bangou",
+      "Meaning": "number"
+    },
+    {
+      "Kanji": "晩ご飯",
+      "Furigana": "ばんごはん",
+      "Romaji": "bangohan",
+      "Meaning": "dinner"
+    },
+    {
+      "Kanji": "半分",
+      "Furigana": "はんぶん",
+      "Romaji": "hanbun",
+      "Meaning": "half"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "東",
+      "Furigana": "ひがし",
+      "Romaji": "higashi",
+      "Meaning": "east"
+    },
+    {
+      "Kanji": "〜匹",
+      "Furigana": "〜ひき",
+      "Romaji": "~hiki",
+      "Meaning": "counter for animals"
+    },
+    {
+      "Kanji": "引く",
+      "Furigana": "ひく",
+      "Romaji": "hiku",
+      "Meaning": "to pull"
+    },
+    {
+      "Kanji": "弾く",
+      "Furigana": "ひく",
+      "Romaji": "hiku",
+      "Meaning": "to play (an instrument)"
+    },
+    {
+      "Kanji": "低い",
+      "Furigana": "ひくい",
+      "Romaji": "hikui",
+      "Meaning": "low"
+    },
+    {
+      "Kanji": "飛行機",
+      "Furigana": "ひこうき",
+      "Romaji": "hikouki",
+      "Meaning": "plane"
+    },
+    {
+      "Kanji": "左",
+      "Furigana": "ひだり",
+      "Romaji": "hidari",
+      "Meaning": "left"
+    },
+    {
+      "Kanji": "人",
+      "Furigana": "ひと",
+      "Romaji": "hito",
+      "Meaning": "person"
+    },
+    {
+      "Kanji": "一つ",
+      "Furigana": "ひとつ",
+      "Romaji": "hitotsu",
+      "Meaning": "one"
+    },
+    {
+      "Kanji": "一月",
+      "Furigana": "ひとつき",
+      "Romaji": "hitotsuki",
+      "Meaning": "one month"
+    },
+    {
+      "Kanji": "一人",
+      "Furigana": "ひとり",
+      "Romaji": "hitori",
+      "Meaning": "one person"
+    },
+    {
+      "Kanji": "暇",
+      "Furigana": "ひま",
+      "Romaji": "hima",
+      "Meaning": "free time, leisure"
+    },
+    {
+      "Kanji": "百",
+      "Furigana": "ひゃく",
+      "Romaji": "hyaku",
+      "Meaning": "hundred"
+    },
+    {
+      "Kanji": "病院",
+      "Furigana": "びょういん",
+      "Romaji": "byouin",
+      "Meaning": "hospital"
+    },
+    {
+      "Kanji": "病気",
+      "Furigana": "びょうき",
+      "Romaji": "byouki",
+      "Meaning": "ill, sick"
+    },
+    {
+      "Kanji": "平仮名",
+      "Furigana": "ひらがな",
+      "Romaji": "hiragana",
+      "Meaning": "hiragana characters"
+    },
+    {
+      "Kanji": "昼",
+      "Furigana": "ひる",
+      "Romaji": "hiru",
+      "Meaning": "noon"
+    },
+    {
+      "Kanji": "昼ご飯",
+      "Furigana": "ひるごはん",
+      "Romaji": "hirugohan",
+      "Meaning": "lunch"
+    },
+    {
+      "Kanji": "広い",
+      "Furigana": "ひろい",
+      "Romaji": "hiroi",
+      "Meaning": "wide, spacious"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "フィルム",
+      "Furigana": "フィルム",
+      "Romaji": "firumu",
+      "Meaning": "film"
+    },
+    {
+      "Kanji": "封筒",
+      "Furigana": "ふうとう",
+      "Romaji": "fuutou",
+      "Meaning": "envelope"
+    },
+    {
+      "Kanji": "プール",
+      "Furigana": "プール",
+      "Romaji": "puuru",
+      "Meaning": "pool"
+    },
+    {
+      "Kanji": "フォーク",
+      "Furigana": "フォーク",
+      "Romaji": "fooku",
+      "Meaning": "fork"
+    },
+    {
+      "Kanji": "吹く",
+      "Furigana": "ふく",
+      "Romaji": "fuku",
+      "Meaning": "to blow (wind)"
+    },
+    {
+      "Kanji": "服",
+      "Furigana": "ふく",
+      "Romaji": "fuku",
+      "Meaning": "clothes"
+    },
+    {
+      "Kanji": "二つ",
+      "Furigana": "ふたつ",
+      "Romaji": "futatsu",
+      "Meaning": "two"
+    },
+    {
+      "Kanji": "豚肉",
+      "Furigana": "ぶたにく",
+      "Romaji": "butaniku",
+      "Meaning": "pork"
+    },
+    {
+      "Kanji": "二人",
+      "Furigana": "ふたり",
+      "Romaji": "futari",
+      "Meaning": "two people"
+    },
+    {
+      "Kanji": "二日",
+      "Furigana": "ふつか",
+      "Romaji": "futsuka",
+      "Meaning": "2nd day of the month, 2 days"
+    },
+    {
+      "Kanji": "太い",
+      "Furigana": "ふとい",
+      "Romaji": "futoi",
+      "Meaning": "thick, fat"
+    },
+    {
+      "Kanji": "降る",
+      "Furigana": "ふる",
+      "Romaji": "furu",
+      "Meaning": "to fall (rain, snow)"
+    },
+    {
+      "Kanji": "古い",
+      "Furigana": "ふるい",
+      "Romaji": "furui",
+      "Meaning": "old"
+    },
+    {
+      "Kanji": "お風呂",
+      "Furigana": "おふろ",
+      "Romaji": "ofuro",
+      "Meaning": "bath"
+    },
+    {
+      "Kanji": "〜分",
+      "Furigana": "〜ふん",
+      "Romaji": "~fun",
+      "Meaning": "~minutes"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "ページ",
+      "Furigana": "ページ",
+      "Romaji": "peeji",
+      "Meaning": "page"
+    },
+    {
+      "Kanji": "下手",
+      "Furigana": "へた",
+      "Romaji": "heta",
+      "Meaning": "not good at something"
+    },
+    {
+      "Kanji": "ベッド",
+      "Furigana": "ベッド",
+      "Romaji": "beddo",
+      "Meaning": "bed"
+    },
+    {
+      "Kanji": "部屋",
+      "Furigana": "へや",
+      "Romaji": "heya",
+      "Meaning": "room"
+    },
+    {
+      "Kanji": "辺",
+      "Furigana": "へん",
+      "Romaji": "hen",
+      "Meaning": "side, part, area"
+    },
+    {
+      "Kanji": "ペン",
+      "Furigana": "ぺん",
+      "Romaji": "pen",
+      "Meaning": "pen"
+    },
+    {
+      "Kanji": "勉強",
+      "Furigana": "べんきょう",
+      "Romaji": "benkyou",
+      "Meaning": "to study"
+    },
+    {
+      "Kanji": "便利",
+      "Furigana": "べんり",
+      "Romaji": "benri",
+      "Meaning": "convenient"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "方",
+      "Furigana": "ほう",
+      "Romaji": "hou",
+      "Meaning": "~より〜のほうが〜"
+    },
+    {
+      "Kanji": "帽子",
+      "Furigana": "ぼうし",
+      "Romaji": "boushi",
+      "Meaning": "hat"
+    },
+    {
+      "Kanji": "ボールペン",
+      "Furigana": "ボールペン",
+      "Romaji": "boorupen",
+      "Meaning": "ballpen"
+    },
+    {
+      "Kanji": "他",
+      "Furigana": "ほか",
+      "Romaji": "hoka",
+      "Meaning": "another, other"
+    },
+    {
+      "Kanji": "ポケット",
+      "Furigana": "ポケット",
+      "Romaji": "poketto",
+      "Meaning": "pocket"
+    },
+    {
+      "Kanji": "欲しい",
+      "Furigana": "ほしい",
+      "Romaji": "hoshii",
+      "Meaning": "to want something"
+    },
+    {
+      "Kanji": "細い",
+      "Furigana": "ほそい",
+      "Romaji": "hosoi",
+      "Meaning": "thin, fine"
+    },
+    {
+      "Kanji": "ボタン",
+      "Furigana": "ボタン",
+      "Romaji": "botan",
+      "Meaning": "button"
+    },
+    {
+      "Kanji": "ホテル",
+      "Furigana": "ホテル",
+      "Romaji": "hoteru",
+      "Meaning": "hotel"
+    },
+    {
+      "Kanji": "本",
+      "Furigana": "ほん",
+      "Romaji": "hon",
+      "Meaning": "book"
+    },
+    {
+      "Kanji": "〜本",
+      "Furigana": "~ほん",
+      "Romaji": "~hon",
+      "Meaning": "counter for long objects"
+    },
+    {
+      "Kanji": "本棚",
+      "Furigana": "ほんだな",
+      "Romaji": "hondana",
+      "Meaning": "bookshelf"
+    },
+    {
+      "Kanji": "本当に",
+      "Furigana": "ほんとうに",
+      "Romaji": "hontouni",
+      "Meaning": "really"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "〜枚",
+      "Furigana": "〜まい",
+      "Romaji": "~mai",
+      "Meaning": "counter for thin objects"
+    },
+    {
+      "Kanji": "毎朝",
+      "Furigana": "まいあさ",
+      "Romaji": "maiasa",
+      "Meaning": "every morning"
+    },
+    {
+      "Kanji": "毎月",
+      "Furigana": "まいつき/まいげつ",
+      "Romaji": "maitsuki/maigetsu",
+      "Meaning": "every month"
+    },
+    {
+      "Kanji": "毎週",
+      "Furigana": "まいしゅう",
+      "Romaji": "maishuu",
+      "Meaning": "every week"
+    },
+    {
+      "Kanji": "毎日",
+      "Furigana": "まいにち",
+      "Romaji": "mainichi",
+      "Meaning": "every day"
+    },
+    {
+      "Kanji": "毎年",
+      "Furigana": "まいとし/まいねん",
+      "Romaji": "maitoshi/mainen",
+      "Meaning": "every year"
+    },
+    {
+      "Kanji": "毎晩",
+      "Furigana": "まいばん",
+      "Romaji": "maiban",
+      "Meaning": "every evening"
+    },
+    {
+      "Kanji": "前",
+      "Furigana": "まえ",
+      "Romaji": "mae",
+      "Meaning": "front"
+    },
+    {
+      "Kanji": "〜前",
+      "Furigana": "〜まえ",
+      "Romaji": "~mae",
+      "Meaning": "before, in front of"
+    },
+    {
+      "Kanji": "曲がる",
+      "Furigana": "まがる",
+      "Romaji": "magaru",
+      "Meaning": "to turn"
+    },
+    {
+      "Kanji": "不味い",
+      "Furigana": "まずい",
+      "Romaji": "mazui",
+      "Meaning": "bad tasting"
+    },
+    {
+      "Kanji": "また",
+      "Furigana": "また",
+      "Romaji": "mata",
+      "Meaning": "also, again"
+    },
+    {
+      "Kanji": "まだ",
+      "Furigana": "まだ",
+      "Romaji": "mada",
+      "Meaning": "not yet"
+    },
+    {
+      "Kanji": "町",
+      "Furigana": "まち",
+      "Romaji": "machi",
+      "Meaning": "city, town"
+    },
+    {
+      "Kanji": "待つ",
+      "Furigana": "まつ",
+      "Romaji": "matsu",
+      "Meaning": "to wait"
+    },
+    {
+      "Kanji": "真直ぐに",
+      "Furigana": "まっすぐに",
+      "Romaji": "massugu ni",
+      "Meaning": "straight ahead"
+    },
+    {
+      "Kanji": "マッチ",
+      "Furigana": "マッチ",
+      "Romaji": "machi",
+      "Meaning": "matches"
+    },
+    {
+      "Kanji": "窓",
+      "Furigana": "まど",
+      "Romaji": "mado",
+      "Meaning": "window"
+    },
+    {
+      "Kanji": "丸い",
+      "Furigana": "まるい",
+      "Romaji": "marui",
+      "Meaning": "round"
+    },
+    {
+      "Kanji": "万",
+      "Furigana": "まん",
+      "Romaji": "man",
+      "Meaning": "ten thousand"
+    },
+    {
+      "Kanji": "万年筆",
+      "Furigana": "まんねんひつ",
+      "Romaji": "mannenhitsu",
+      "Meaning": "fountain pen"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "磨く",
+      "Furigana": "みがく",
+      "Romaji": "migaku",
+      "Meaning": "to polish, to brush"
+    },
+    {
+      "Kanji": "右",
+      "Furigana": "みぎ",
+      "Romaji": "migi",
+      "Meaning": "right"
+    },
+    {
+      "Kanji": "短い",
+      "Furigana": "みじかい",
+      "Romaji": "mijikai",
+      "Meaning": "short"
+    },
+    {
+      "Kanji": "お水",
+      "Furigana": "おみず",
+      "Romaji": "omizu",
+      "Meaning": "water"
+    },
+    {
+      "Kanji": "店",
+      "Furigana": "みせ",
+      "Romaji": "mise",
+      "Meaning": "shop"
+    },
+    {
+      "Kanji": "見せる",
+      "Furigana": "みせる",
+      "Romaji": "miseru",
+      "Meaning": "to look, to watch"
+    },
+    {
+      "Kanji": "道",
+      "Furigana": "みち",
+      "Romaji": "michi",
+      "Meaning": "road"
+    },
+    {
+      "Kanji": "三日",
+      "Furigana": "みっか",
+      "Romaji": "mikka",
+      "Meaning": "3rd day of a month, 3 days"
+    },
+    {
+      "Kanji": "三つ",
+      "Furigana": "みっつ",
+      "Romaji": "mittsu",
+      "Meaning": "three"
+    },
+    {
+      "Kanji": "皆さん",
+      "Furigana": "みなさん",
+      "Romaji": "minsan",
+      "Meaning": "everyone"
+    },
+    {
+      "Kanji": "南",
+      "Furigana": "みなみ",
+      "Romaji": "minami",
+      "Meaning": "south"
+    },
+    {
+      "Kanji": "耳",
+      "Furigana": "みみ",
+      "Romaji": "mimi",
+      "Meaning": "ear"
+    },
+    {
+      "Kanji": "見る",
+      "Furigana": "みる",
+      "Romaji": "miru",
+      "Meaning": "to see, to watch"
+    },
+    {
+      "Kanji": "皆",
+      "Furigana": "みんな",
+      "Romaji": "minna",
+      "Meaning": "all, everyone"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "六日",
+      "Furigana": "むいか",
+      "Romaji": "muika",
+      "Meaning": "the 6th day of a month, 6 days"
+    },
+    {
+      "Kanji": "向こう",
+      "Furigana": "むこう",
+      "Romaji": "mukou",
+      "Meaning": "over there"
+    },
+    {
+      "Kanji": "難しい",
+      "Furigana": "むずかしい",
+      "Romaji": "muzukashii",
+      "Meaning": "difficult"
+    },
+    {
+      "Kanji": "六つ",
+      "Furigana": "むっつ",
+      "Romaji": "muttsu",
+      "Meaning": "six"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "目",
+      "Furigana": "め",
+      "Romaji": "me",
+      "Meaning": "eye"
+    },
+    {
+      "Kanji": "メートル",
+      "Furigana": "メートル",
+      "Romaji": "meetoru",
+      "Meaning": "meter"
+    },
+    {
+      "Kanji": "めがね",
+      "Furigana": "めがね",
+      "Romaji": "megane",
+      "Meaning": "a pair of glasses"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "もう",
+      "Furigana": "もう",
+      "Romaji": "mou",
+      "Meaning": "already, yet"
+    },
+    {
+      "Kanji": "もう",
+      "Furigana": "もう",
+      "Romaji": "mou",
+      "Meaning": "(one) more"
+    },
+    {
+      "Kanji": "木曜日",
+      "Furigana": "もくようび",
+      "Romaji": "mokuyoubi",
+      "Meaning": "Thursday"
+    },
+    {
+      "Kanji": "もしもし",
+      "Furigana": "もしもし",
+      "Romaji": "moshimoshi",
+      "Meaning": "hello on the phone"
+    },
+    {
+      "Kanji": "勿論",
+      "Furigana": "もちろん",
+      "Romaji": "mochiron",
+      "Meaning": "of course"
+    },
+    {
+      "Kanji": "持つ",
+      "Furigana": "もつ",
+      "Romaji": "motsu",
+      "Meaning": "to have, to own"
+    },
+    {
+      "Kanji": "もっと",
+      "Furigana": "もっと",
+      "Romaji": "motto",
+      "Meaning": "more"
+    },
+    {
+      "Kanji": "物",
+      "Furigana": "もの",
+      "Romaji": "mono",
+      "Meaning": "thing"
+    },
+    {
+      "Kanji": "門",
+      "Furigana": "もん",
+      "Romaji": "mon",
+      "Meaning": "gate"
+    },
+    {
+      "Kanji": "問題",
+      "Furigana": "もんだい",
+      "Romaji": "mondai",
+      "Meaning": "problem, question"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "〜屋",
+      "Furigana": "〜や",
+      "Romaji": "~ya",
+      "Meaning": "shop. store"
+    },
+    {
+      "Kanji": "八百屋",
+      "Furigana": "やおや",
+      "Romaji": "yaoya",
+      "Meaning": "vegetable shop"
+    },
+    {
+      "Kanji": "野菜",
+      "Furigana": "やさい",
+      "Romaji": "yasai",
+      "Meaning": "vegetable"
+    },
+    {
+      "Kanji": "優しい",
+      "Furigana": "やさしい",
+      "Romaji": "yasashii",
+      "Meaning": "gentle"
+    },
+    {
+      "Kanji": "安い",
+      "Furigana": "やすい",
+      "Romaji": "yasui",
+      "Meaning": "cheap, inexpensive"
+    },
+    {
+      "Kanji": "休み",
+      "Furigana": "やすみ",
+      "Romaji": "yasumi",
+      "Meaning": "holiday, vacation"
+    },
+    {
+      "Kanji": "休む",
+      "Furigana": "やすむ",
+      "Romaji": "yasumu",
+      "Meaning": "to rest"
+    },
+    {
+      "Kanji": "八つ",
+      "Furigana": "やっつ",
+      "Romaji": "yattsu",
+      "Meaning": "eight"
+    },
+    {
+      "Kanji": "山",
+      "Furigana": "やま",
+      "Romaji": "yama",
+      "Meaning": "mountain"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "やる",
+      "Romaji": "yaru",
+      "Meaning": "to do"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "八日",
+      "Furigana": "ようか",
+      "Romaji": "youka",
+      "Meaning": "8th day of the month, 8 days"
+    },
+    {
+      "Kanji": "洋服",
+      "Furigana": "ようふく",
+      "Romaji": "youfuku",
+      "Meaning": "western style clothing"
+    },
+    {
+      "Kanji": "よく",
+      "Furigana": "よく",
+      "Romaji": "yoku",
+      "Meaning": "often"
+    },
+    {
+      "Kanji": "横",
+      "Furigana": "よこ",
+      "Romaji": "yoko",
+      "Meaning": "horizontal"
+    },
+    {
+      "Kanji": "四日",
+      "Furigana": "よっか",
+      "Romaji": "yokka",
+      "Meaning": "4th day of the month, 4 days"
+    },
+    {
+      "Kanji": "四つ",
+      "Furigana": "よっつ",
+      "Romaji": "yottsu",
+      "Meaning": "four"
+    },
+    {
+      "Kanji": "呼ぶ",
+      "Furigana": "よぶ",
+      "Romaji": "yobu",
+      "Meaning": "to call"
+    },
+    {
+      "Kanji": "読む",
+      "Furigana": "よむ",
+      "Romaji": "yomu",
+      "Meaning": "to read"
+    },
+    {
+      "Kanji": "夜",
+      "Furigana": "よる",
+      "Romaji": "yoru",
+      "Meaning": "night"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "来月",
+      "Furigana": "らいげつ",
+      "Romaji": "raigetsu",
+      "Meaning": "next month"
+    },
+    {
+      "Kanji": "来週",
+      "Furigana": "らいしゅう",
+      "Romaji": "raishuu",
+      "Meaning": "next week"
+    },
+    {
+      "Kanji": "来年",
+      "Furigana": "らいねん",
+      "Romaji": "rainen",
+      "Meaning": "next year"
+    },
+    {
+      "Kanji": "ラジオ",
+      "Furigana": "ラジオ",
+      "Romaji": "rajio",
+      "Meaning": "radio"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "立派",
+      "Furigana": "りっぱ",
+      "Romaji": "rippa",
+      "Meaning": "splendid"
+    },
+    {
+      "Kanji": "留学生",
+      "Furigana": "りゅうがくせい",
+      "Romaji": "ryuugakusei",
+      "Meaning": "foreign student"
+    },
+    {
+      "Kanji": "両親",
+      "Furigana": "りょうしん",
+      "Romaji": "ryoushin",
+      "Meaning": "parents"
+    },
+    {
+      "Kanji": "料理",
+      "Furigana": "りょうり",
+      "Romaji": "ryouri",
+      "Meaning": "cooking"
+    },
+    {
+      "Kanji": "旅行",
+      "Furigana": "りょこう",
+      "Romaji": "ryokou",
+      "Meaning": "travel"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "",
+      "Furigana": "れい",
+      "Romaji": "rei",
+      "Meaning": "zero"
+    },
+    {
+      "Kanji": "冷蔵庫",
+      "Furigana": "れいぞうこ",
+      "Romaji": "reizouko",
+      "Meaning": "refrigerator"
+    },
+    {
+      "Kanji": "レコード",
+      "Furigana": "レコード",
+      "Romaji": "rekoodo",
+      "Meaning": "record"
+    },
+    {
+      "Kanji": "レストラン",
+      "Furigana": "レストラン",
+      "Romaji": "resutoran",
+      "Meaning": "restaurant"
+    },
+    {
+      "Kanji": "練習",
+      "Furigana": "れんしゅう",
+      "Romaji": "renshuu",
+      "Meaning": "practice"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "六",
+      "Furigana": "ろく",
+      "Romaji": "roku",
+      "Meaning": "six"
+    },
+    {
+      "Kanji": "Kanji",
+      "Furigana": "Furigana",
+      "Romaji": "Romaji",
+      "Meaning": "Meaning"
+    },
+    {
+      "Kanji": "ワイシャツ",
+      "Furigana": "ワイシャツ",
+      "Romaji": "waishatsu",
+      "Meaning": "white shirt"
+    },
+    {
+      "Kanji": "若い",
+      "Furigana": "わかい",
+      "Romaji": "wakai",
+      "Meaning": "young"
+    },
+    {
+      "Kanji": "分かる",
+      "Furigana": "わかる",
+      "Romaji": "wakaru",
+      "Meaning": "to know, to understand"
+    },
+    {
+      "Kanji": "忘れる",
+      "Furigana": "わすれる",
+      "Romaji": "wasureru",
+      "Meaning": "to forget"
+    },
+    {
+      "Kanji": "私",
+      "Furigana": "わたし",
+      "Romaji": "watashi",
+      "Meaning": "me, I"
+    },
+    {
+      "Kanji": "渡す",
+      "Furigana": "わたす",
+      "Romaji": "watasu",
+      "Meaning": "to hand over"
+    },
+    {
+      "Kanji": "渡る",
+      "Furigana": "わたる",
+      "Romaji": "wataru",
+      "Meaning": "to cross"
+    },
+    {
+      "Kanji": "悪い",
+      "Furigana": "わるい",
+      "Romaji": "warui",
+      "Meaning": "bad"
+    }
+  ]
