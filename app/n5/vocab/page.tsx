@@ -1,93 +1,99 @@
-"use client";
+"use client"
 
-import { useState, useEffect } from "react";
-import VocabCard from "@/components/vocab-card";
-import ProgressBar from "@/components/progress-bar";
-import { Button } from "@/components/ui/button";
-import { RefreshCcw } from "lucide-react";
+import { useState, useEffect } from "react"
+import ProgressBar from "@/components/progress-bar" // Reuse the ProgressBar component
+import { Button } from "@/components/ui/button" // Reuse the Button component
+import { RefreshCcw } from "lucide-react" // For the reset button
+import vocabData from "@/vocab.json" // Adjust the import path as needed
+import VocabCard from "@/components/vocab-card"
 
-type VocabData = {
-  [category: string]: {
-    [word: string]: string;
-  };
-};
-
-import vocabData from "@/n5vocab.json";
-const typedVocabData = vocabData as VocabData;
+const DECK_SIZE = 50 // Define the size of each deck
 
 export default function VocabPage() {
-  const [currentCategory, setCurrentCategory] = useState(Object.keys(typedVocabData)[0]);
-  const [currentIndex, setCurrentIndex] = useState(0);
-  const [isFlipped, setIsFlipped] = useState(false);
-  const [isReviewing, setIsReviewing] = useState(false);
-  const [reviewStack, setReviewStack] = useState<number[]>([]);
-
-  const categoryVocab = Object.entries(typedVocabData[currentCategory]);
+  const [currentIndex, setCurrentIndex] = useState(0)
+  const [currentDeckIndex, setCurrentDeckIndex] = useState(0)
+  const [decks, setDecks] = useState<any[]>([])
+  const [isFlipped, setIsFlipped] = useState(false)
+  const [isReviewing, setIsReviewing] = useState(false)
+  const [reviewStack, setReviewStack] = useState<number[]>([])
 
   useEffect(() => {
-    if (!window.speechSynthesis) {
-      alert("Your browser does not support text-to-speech functionality.");
+    // Create decks when the component mounts
+    const createDecks = () => {
+      const newDecks = []
+      for (let i = 0; i < vocabData.length; i += DECK_SIZE) {
+        newDecks.push(vocabData.slice(i, i + DECK_SIZE))
+      }
+      setDecks(newDecks)
     }
-  }, []);
+    createDecks()
+  }, [])
+
+  const handleDeckChange = (index: number) => {
+    setCurrentDeckIndex(index)
+    setCurrentIndex(0) // Reset to the first card in the selected deck
+  }
 
   const moveToNext = () => {
-    setIsFlipped(false);
-    if (currentIndex < categoryVocab.length - 1) {
-      setCurrentIndex(currentIndex + 1);
+    setIsFlipped(false)
+    if (currentIndex < decks[currentDeckIndex]?.length) {
+      setCurrentIndex(currentIndex + 1)
     } else if (reviewStack.length > 0 && !isReviewing) {
-      setIsReviewing(true);
-      setCurrentIndex(reviewStack[0]);
-      setReviewStack(reviewStack.slice(1));
+      setIsReviewing(true)
+      setCurrentIndex(reviewStack[0])
+      setReviewStack(reviewStack.slice(1))
     }
-  };
+  }
 
   const moveToPrevious = () => {
-    setIsFlipped(false);
+    setIsFlipped(false)
     if (currentIndex > 0) {
-      setCurrentIndex(currentIndex - 1);
+      setCurrentIndex(currentIndex - 1)
     }
-  };
+  }
 
   const resetCards = () => {
-    setCurrentIndex(0);
-    setIsFlipped(false);
-    setIsReviewing(false);
-    setReviewStack([]);
-  };
+    setCurrentIndex(0)
+    setIsFlipped(false)
+    setIsReviewing(false)
+    setReviewStack([])
+  }
 
   const toggleFlip = () => {
-    setIsFlipped(!isFlipped);
-  };
+    setIsFlipped(!isFlipped)
+  }
 
-  const progress = Math.round((currentIndex / (categoryVocab.length - 1)) * 100);
-  const isComplete = currentIndex >= categoryVocab.length - 1 && reviewStack.length === 0;
+  const progress = Math.round(
+    (currentIndex / (decks[currentDeckIndex]?.length || 1)) * 100
+  )
+  const isComplete = currentIndex >= decks[currentDeckIndex]?.length && reviewStack.length === 0
 
   return (
     <main className="select-none flex min-h-screen flex-col items-center justify-between p-4 md:p-24 bg-gray-50">
-      <div className="w-full max-w-2xl mx-auto flex flex-col items-center">
+      <div className="w-full max-w-md mx-auto flex flex-col items-center">
         <h1 className="text-3xl font-bold mb-8 text-center">Vocabulary Flashcards</h1>
-
-        {/* Category Selection */}
-        <div className="mb-6 grid md:grid-cols-3 grid-cols-2 gap-2">
-          {Object.keys(typedVocabData).map((category) => (
-            <Button
-              key={category}
-              variant="ghost"
-              className={`${currentCategory === category ? 'bg-blue-500 text-white' : 'text-blue-500'}`}
-              onClick={() => {
-                setCurrentCategory(category);
-                setCurrentIndex(0);
-                setIsFlipped(false);
-              }}
-            >
-              {category}
-            </Button>
-          ))}
-        </div>
 
         <div className="w-full mb-4">
           <ProgressBar progress={progress} />
-          <p className="text-sm text-center mt-2">{isReviewing ? "Review Mode" : `${progress}% Complete`}</p>
+          <p className="text-sm text-center mt-2">
+            {isReviewing ? "Review Mode" : `${progress}% Complete`}
+          </p>
+        </div>
+
+        {/* Deck Selection */}
+        <div className="mb-6 grid grid-cols-5 gap-2">
+          {decks.map((deck, index) => (
+            <Button
+              key={index}
+              variant="ghost"
+              className={`mr-2 ${
+                currentDeckIndex === index ? "bg-blue-500 text-white" : "text-blue-500"
+              }`}
+              onClick={() => handleDeckChange(index)}
+            >
+              Deck {index + 1}
+            </Button>
+          ))}
         </div>
 
         {isComplete ? (
@@ -101,19 +107,16 @@ export default function VocabPage() {
           </div>
         ) : (
           <>
-            {categoryVocab[currentIndex] && (
+            {decks[currentDeckIndex] && decks[currentDeckIndex][currentIndex] ? (
               <VocabCard
-                vocabData={{
-                  Romaji: categoryVocab[currentIndex][0],
-                  Kanji: categoryVocab[currentIndex][1],
-                  Furigana: categoryVocab[currentIndex][1].match(/\((.*?)\)/)?.[1] || '',
-                  Meaning: categoryVocab[currentIndex][0]
-                }}
+                vocabData={decks[currentDeckIndex][currentIndex]}
                 isFlipped={isFlipped}
                 onSwipeLeft={moveToPrevious}
                 onSwipeRight={moveToNext}
                 onClick={toggleFlip}
               />
+            ) : (
+              <p>No cards available in this deck.</p>
             )}
 
             <div className="flex gap-4 mt-8">
@@ -137,12 +140,12 @@ export default function VocabPage() {
 
             <div className="mt-4 text-center">
               <Button variant="ghost" size="sm" onClick={toggleFlip}>
-                {isFlipped ? "Show Japanese" : "Show English"}
+                {isFlipped ? "Show Vocabulary" : "Show Meaning"}
               </Button>
             </div>
           </>
         )}
       </div>
     </main>
-  );
+  )
 }

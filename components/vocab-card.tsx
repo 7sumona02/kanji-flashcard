@@ -146,8 +146,9 @@ export default function VocabCard({ vocabData, isFlipped, onSwipeLeft, onSwipeRi
         {/* Back of card (Japanese) */}
         <div className="absolute w-full h-full backface-hidden rounded-xl shadow-lg flex flex-col items-center justify-center p-6 bg-white">
           <div className="text-center">
-            {vocabData.Kanji && <p className="text-7xl font-bold mb-2">{vocabData.Kanji[0]}</p>}
+            {vocabData.Kanji && <p className="text-7xl font-bold mb-2">{vocabData.Kanji}</p>}
             <p className="text-2xl mb-2">{vocabData.Furigana}</p>
+            <span className="text-lg font-medium mb-4">{vocabData.Meaning}</span>
           </div>
           {/* <button
             className="mt-4 text-sm text-blue-500 hover:text-blue-700"
