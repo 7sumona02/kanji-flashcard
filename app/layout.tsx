@@ -2,6 +2,7 @@ import type React from "react"
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
 import "./globals.css"
+import { DropMenu } from "@/components/dropmenu"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -17,6 +18,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      {/* dropdown btn */}
+      <div className="absolute top-5 right-5">
+        <DropMenu />
+      </div>
       <body className={inter.className}>{children}</body>
     </html>
   )
