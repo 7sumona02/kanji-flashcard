@@ -24,8 +24,9 @@ export function DropMenu() {
       </DropdownMenuTrigger>
       <DropdownMenuContent className="w-56 mr-5">
         <DropdownMenuRadioGroup value={position} onValueChange={setPosition}>
-          <Link href='/'><DropdownMenuRadioItem value="top">Kanji</DropdownMenuRadioItem></Link>
-          <Link href='/n5/vocab'><DropdownMenuRadioItem value="bottom">Vocabulary</DropdownMenuRadioItem></Link>
+          <Link href='/'><DropdownMenuRadioItem value="top">N5 Kanji</DropdownMenuRadioItem></Link>
+          <Link href='/n5/vocab'><DropdownMenuRadioItem value="n5vocab">N5 Vocabulary</DropdownMenuRadioItem></Link>
+          <Link href='/n4/vocab'><DropdownMenuRadioItem value="n4vocab">N4 Vocabulary</DropdownMenuRadioItem></Link>
         </DropdownMenuRadioGroup>
       </DropdownMenuContent>
     </DropdownMenu>
